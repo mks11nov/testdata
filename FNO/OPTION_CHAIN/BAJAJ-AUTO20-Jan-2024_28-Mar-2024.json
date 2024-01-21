@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 6000,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 6000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BAJAJ-AUTO",
+            "identifier": "OPTSTKBAJAJ-AUTO28-03-2024PE6000.00",
+            "openInterest": 10,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 15.5,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 1375,
+            "totalSellQuantity": 0,
+            "bidQty": 125,
+            "bidprice": 5.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 7084
+        }
+    },
+    {
+        "strikePrice": 7000,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 7000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BAJAJ-AUTO",
+            "identifier": "OPTSTKBAJAJ-AUTO28-03-2024PE7000.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 257.25,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 125,
+            "totalSellQuantity": 250,
+            "bidQty": 125,
+            "bidprice": 108.55,
+            "askQty": 125,
+            "askPrice": 261,
+            "underlyingValue": 7084
+        }
+    }
+]

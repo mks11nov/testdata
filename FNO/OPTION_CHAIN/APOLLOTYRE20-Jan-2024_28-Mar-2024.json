@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 450,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 450,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "APOLLOTYRE",
+            "identifier": "OPTSTKAPOLLOTYRE28-03-2024PE450.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 1700,
+            "totalSellQuantity": 1700,
+            "bidQty": 1700,
+            "bidprice": 3,
+            "askQty": 1700,
+            "askPrice": 9,
+            "underlyingValue": 525.9
+        }
+    },
+    {
+        "strikePrice": 500,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 500,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "APOLLOTYRE",
+            "identifier": "OPTSTKAPOLLOTYRE28-03-2024PE500.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 3400,
+            "totalSellQuantity": 0,
+            "bidQty": 1700,
+            "bidprice": 12,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 525.9
+        }
+    }
+]

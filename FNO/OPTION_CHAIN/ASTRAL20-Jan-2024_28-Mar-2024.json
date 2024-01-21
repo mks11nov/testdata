@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 1700,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1700,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "ASTRAL",
+            "identifier": "OPTSTKASTRAL28-03-2024PE1700.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 367,
+            "totalSellQuantity": 367,
+            "bidQty": 367,
+            "bidprice": 18.05,
+            "askQty": 367,
+            "askPrice": 36,
+            "underlyingValue": 1826.95
+        }
+    },
+    {
+        "strikePrice": 1800,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1800,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "ASTRAL",
+            "identifier": "OPTSTKASTRAL28-03-2024PE1800.00",
+            "openInterest": 2,
+            "changeinOpenInterest": 1,
+            "pchangeinOpenInterest": 100,
+            "totalTradedVolume": 1,
+            "impliedVolatility": 26.04,
+            "lastPrice": 54,
+            "change": -8,
+            "pChange": -12.903225806451612,
+            "totalBuyQuantity": 367,
+            "totalSellQuantity": 0,
+            "bidQty": 367,
+            "bidprice": 27,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1826.95
+        }
+    }
+]

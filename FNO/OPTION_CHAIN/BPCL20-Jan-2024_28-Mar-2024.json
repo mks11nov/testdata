@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 460,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 460,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BPCL",
+            "identifier": "OPTSTKBPCL28-03-2024CE460.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 3600,
+            "totalSellQuantity": 0,
+            "bidQty": 3600,
+            "bidprice": 22,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 481.2
+        }
+    },
+    {
+        "strikePrice": 470,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 470,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BPCL",
+            "identifier": "OPTSTKBPCL28-03-2024CE470.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 3600,
+            "totalSellQuantity": 0,
+            "bidQty": 3600,
+            "bidprice": 16.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 481.2
+        }
+    },
+    {
+        "strikePrice": 480,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 480,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BPCL",
+            "identifier": "OPTSTKBPCL28-03-2024CE480.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 3600,
+            "totalSellQuantity": 0,
+            "bidQty": 3600,
+            "bidprice": 12,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 481.2
+        }
+    },
+    {
+        "strikePrice": 500,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 500,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BPCL",
+            "identifier": "OPTSTKBPCL28-03-2024CE500.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 10,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 9000,
+            "totalSellQuantity": 0,
+            "bidQty": 3600,
+            "bidprice": 8.85,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 481.2
+        }
+    }
+]

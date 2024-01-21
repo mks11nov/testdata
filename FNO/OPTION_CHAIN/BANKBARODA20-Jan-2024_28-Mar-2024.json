@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 200,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 200,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANKBARODA",
+            "identifier": "OPTSTKBANKBARODA28-03-2024PE200.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 11700,
+            "totalSellQuantity": 2925,
+            "bidQty": 5850,
+            "bidprice": 1.9,
+            "askQty": 2925,
+            "askPrice": 4,
+            "underlyingValue": 233.3
+        }
+    },
+    {
+        "strikePrice": 230,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 230,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANKBARODA",
+            "identifier": "OPTSTKBANKBARODA28-03-2024PE230.00",
+            "openInterest": 6,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 14,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 8775,
+            "totalSellQuantity": 2925,
+            "bidQty": 2925,
+            "bidprice": 10.5,
+            "askQty": 2925,
+            "askPrice": 14,
+            "underlyingValue": 233.3
+        }
+    },
+    {
+        "strikePrice": 240,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 240,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANKBARODA",
+            "identifier": "OPTSTKBANKBARODA28-03-2024CE240.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 11700,
+            "totalSellQuantity": 0,
+            "bidQty": 11700,
+            "bidprice": 4,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 233.3
+        }
+    },
+    {
+        "strikePrice": 245,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 245,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANKBARODA",
+            "identifier": "OPTSTKBANKBARODA28-03-2024CE245.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 11700,
+            "totalSellQuantity": 0,
+            "bidQty": 11700,
+            "bidprice": 3,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 233.3
+        }
+    }
+]

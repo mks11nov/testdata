@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 950,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 950,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "VOLTAS",
+            "identifier": "OPTSTKVOLTAS28-03-2024PE950.00",
+            "openInterest": 6,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 30,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 7200,
+            "totalSellQuantity": 0,
+            "bidQty": 3600,
+            "bidprice": 2.15,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1028
+        }
+    },
+    {
+        "strikePrice": 1000,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "VOLTAS",
+            "identifier": "OPTSTKVOLTAS28-03-2024PE1000.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1028
+        }
+    }
+]

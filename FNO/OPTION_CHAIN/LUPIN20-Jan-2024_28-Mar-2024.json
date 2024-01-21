@@ -1,0 +1,73 @@
+[
+    {
+        "strikePrice": 1400,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 1400,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "LUPIN",
+            "identifier": "OPTSTKLUPIN28-03-2024CE1400.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1410
+        },
+        "PE": {
+            "strikePrice": 1400,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "LUPIN",
+            "identifier": "OPTSTKLUPIN28-03-2024PE1400.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 850,
+            "totalSellQuantity": 0,
+            "bidQty": 850,
+            "bidprice": 45,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1410
+        }
+    },
+    {
+        "strikePrice": 1420,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 1420,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "LUPIN",
+            "identifier": "OPTSTKLUPIN28-03-2024CE1420.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 850,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 850,
+            "askPrice": 98.45,
+            "underlyingValue": 1410
+        }
+    }
+]

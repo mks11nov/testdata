@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 6000,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 6000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "ATUL",
+            "identifier": "OPTSTKATUL28-03-2024PE6000.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 300,
+            "totalSellQuantity": 75,
+            "bidQty": 300,
+            "bidprice": 54,
+            "askQty": 75,
+            "askPrice": 104,
+            "underlyingValue": 6470
+        }
+    },
+    {
+        "strikePrice": 6500,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 6500,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "ATUL",
+            "identifier": "OPTSTKATUL28-03-2024PE6500.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 150,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 75,
+            "totalSellQuantity": 0,
+            "bidQty": 75,
+            "bidprice": 200,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 6470
+        }
+    }
+]
