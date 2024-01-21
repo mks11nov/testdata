@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 285,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 285,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "RBLBANK",
+            "identifier": "OPTSTKRBLBANK28-03-2024CE285.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 292.25
+        }
+    },
+    {
+        "strikePrice": 290,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 290,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "RBLBANK",
+            "identifier": "OPTSTKRBLBANK28-03-2024CE290.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2500,
+            "totalSellQuantity": 0,
+            "bidQty": 2500,
+            "bidprice": 25.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 292.25
+        }
+    },
+    {
+        "strikePrice": 295,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 295,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "RBLBANK",
+            "identifier": "OPTSTKRBLBANK28-03-2024CE295.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2500,
+            "totalSellQuantity": 0,
+            "bidQty": 2500,
+            "bidprice": 23,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 292.25
+        }
+    },
+    {
+        "strikePrice": 300,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 300,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "RBLBANK",
+            "identifier": "OPTSTKRBLBANK28-03-2024CE300.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2500,
+            "totalSellQuantity": 0,
+            "bidQty": 2500,
+            "bidprice": 21.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 292.25
+        }
+    }
+]

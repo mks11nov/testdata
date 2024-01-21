@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 410,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 410,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "PFC",
+            "identifier": "OPTSTKPFC28-03-2024CE410.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 401
+        }
+    },
+    {
+        "strikePrice": 420,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 420,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "PFC",
+            "identifier": "OPTSTKPFC28-03-2024CE420.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 401
+        }
+    }
+]

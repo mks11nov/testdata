@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 1700,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1700,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "KOTAKBANK",
+            "identifier": "OPTSTKKOTAKBANK28-03-2024PE1700.00",
+            "openInterest": 65,
+            "changeinOpenInterest": 21,
+            "pchangeinOpenInterest": 47.72727272727273,
+            "totalTradedVolume": 48,
+            "impliedVolatility": 23.98,
+            "lastPrice": 34.3,
+            "change": 9.749999999999996,
+            "pChange": 39.71486761710793,
+            "totalBuyQuantity": 3200,
+            "totalSellQuantity": 2000,
+            "bidQty": 400,
+            "bidprice": 34,
+            "askQty": 400,
+            "askPrice": 34.8,
+            "underlyingValue": 1760.9
+        }
+    },
+    {
+        "strikePrice": 1750,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1750,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "KOTAKBANK",
+            "identifier": "OPTSTKKOTAKBANK28-03-2024PE1750.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 40,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2000,
+            "totalSellQuantity": 400,
+            "bidQty": 400,
+            "bidprice": 25,
+            "askQty": 400,
+            "askPrice": 70,
+            "underlyingValue": 1760.9
+        }
+    }
+]

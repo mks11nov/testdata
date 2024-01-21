@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 750,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 750,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "GNFC",
+            "identifier": "OPTSTKGNFC28-03-2024CE750.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 756
+        }
+    },
+    {
+        "strikePrice": 800,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 800,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "GNFC",
+            "identifier": "OPTSTKGNFC28-03-2024CE800.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 756
+        }
+    }
+]

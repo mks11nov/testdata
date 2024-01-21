@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 130,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 130,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "IEX",
+            "identifier": "OPTSTKIEX29-02-2024PE130.00",
+            "openInterest": 150,
+            "changeinOpenInterest": -2,
+            "pchangeinOpenInterest": -1.3157894736842106,
+            "totalTradedVolume": 2,
+            "impliedVolatility": 41.67,
+            "lastPrice": 3.15,
+            "change": -0.6499999999999999,
+            "pChange": -17.105263157894733,
+            "totalBuyQuantity": 63750,
+            "totalSellQuantity": 22500,
+            "bidQty": 7500,
+            "bidprice": 3.05,
+            "askQty": 11250,
+            "askPrice": 4.95,
+            "underlyingValue": 139.8
+        }
+    },
+    {
+        "strikePrice": 135,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 135,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "IEX",
+            "identifier": "OPTSTKIEX29-02-2024PE135.00",
+            "openInterest": 45,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 10.95,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 30000,
+            "totalSellQuantity": 22500,
+            "bidQty": 3750,
+            "bidprice": 3.1,
+            "askQty": 15000,
+            "askPrice": 8.8,
+            "underlyingValue": 139.8
+        }
+    },
+    {
+        "strikePrice": 140,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 140,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "IEX",
+            "identifier": "OPTSTKIEX29-02-2024PE140.00",
+            "openInterest": 135,
+            "changeinOpenInterest": -1,
+            "pchangeinOpenInterest": -0.7352941176470589,
+            "totalTradedVolume": 1,
+            "impliedVolatility": 52.03,
+            "lastPrice": 9,
+            "change": -2.9499999999999993,
+            "pChange": -24.686192468619243,
+            "totalBuyQuantity": 33750,
+            "totalSellQuantity": 67500,
+            "bidQty": 3750,
+            "bidprice": 5.05,
+            "askQty": 3750,
+            "askPrice": 8.45,
+            "underlyingValue": 139.8
+        }
+    },
+    {
+        "strikePrice": 145,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 145,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "IEX",
+            "identifier": "OPTSTKIEX29-02-2024PE145.00",
+            "openInterest": 132,
+            "changeinOpenInterest": -1,
+            "pchangeinOpenInterest": -0.7518796992481203,
+            "totalTradedVolume": 1,
+            "impliedVolatility": 52.13,
+            "lastPrice": 11.75,
+            "change": 0.75,
+            "pChange": 6.8181818181818175,
+            "totalBuyQuantity": 3750,
+            "totalSellQuantity": 75000,
+            "bidQty": 3750,
+            "bidprice": 6.8,
+            "askQty": 3750,
+            "askPrice": 10.5,
+            "underlyingValue": 139.8
+        }
+    }
+]

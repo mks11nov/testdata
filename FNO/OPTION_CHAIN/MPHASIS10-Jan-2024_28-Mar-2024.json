@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 2400,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 2400,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "MPHASIS",
+            "identifier": "OPTSTKMPHASIS28-03-2024CE2400.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 1,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 1,
+            "impliedVolatility": 22.83,
+            "lastPrice": 250,
+            "change": -180.14999999999998,
+            "pChange": -41.880739276996394,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 2571
+        }
+    },
+    {
+        "strikePrice": 2600,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 2600,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "MPHASIS",
+            "identifier": "OPTSTKMPHASIS28-03-2024PE2600.00",
+            "openInterest": 1,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 164,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 275,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 275,
+            "askPrice": 221,
+            "underlyingValue": 2571
+        }
+    }
+]

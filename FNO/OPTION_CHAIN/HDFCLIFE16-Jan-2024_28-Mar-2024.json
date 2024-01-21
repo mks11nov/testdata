@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 550,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 550,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "HDFCLIFE",
+            "identifier": "OPTSTKHDFCLIFE28-03-2024PE550.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 612.75
+        }
+    },
+    {
+        "strikePrice": 580,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 580,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "HDFCLIFE",
+            "identifier": "OPTSTKHDFCLIFE28-03-2024PE580.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 1100,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 1100,
+            "askPrice": 18,
+            "underlyingValue": 612.75
+        }
+    },
+    {
+        "strikePrice": 600,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 600,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "HDFCLIFE",
+            "identifier": "OPTSTKHDFCLIFE28-03-2024PE600.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 1100,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 1100,
+            "askPrice": 25,
+            "underlyingValue": 612.75
+        }
+    },
+    {
+        "strikePrice": 620,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 620,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "HDFCLIFE",
+            "identifier": "OPTSTKHDFCLIFE28-03-2024CE620.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 1100,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 1100,
+            "askPrice": 45.55,
+            "underlyingValue": 612.75
+        }
+    }
+]

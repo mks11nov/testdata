@@ -1,0 +1,73 @@
+[
+    {
+        "strikePrice": 145,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 145,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "CUB",
+            "identifier": "OPTSTKCUB28-03-2024PE145.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 5000,
+            "totalSellQuantity": 0,
+            "bidQty": 5000,
+            "bidprice": 3.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 150.45
+        }
+    },
+    {
+        "strikePrice": 150,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 150,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "CUB",
+            "identifier": "OPTSTKCUB28-03-2024CE150.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 5000,
+            "totalSellQuantity": 0,
+            "bidQty": 5000,
+            "bidprice": 10.05,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 150.45
+        },
+        "PE": {
+            "strikePrice": 150,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "CUB",
+            "identifier": "OPTSTKCUB28-03-2024PE150.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 5000,
+            "totalSellQuantity": 0,
+            "bidQty": 5000,
+            "bidprice": 6.5,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 150.45
+        }
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 5000,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 5000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "DRREDDY",
+            "identifier": "OPTSTKDRREDDY28-03-2024PE5000.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 375,
+            "totalSellQuantity": 0,
+            "bidQty": 375,
+            "bidprice": 20,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 5680
+        }
+    },
+    {
+        "strikePrice": 6000,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 6000,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "DRREDDY",
+            "identifier": "OPTSTKDRREDDY28-03-2024CE6000.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 125,
+            "totalSellQuantity": 0,
+            "bidQty": 125,
+            "bidprice": 24,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 5680
+        }
+    }
+]

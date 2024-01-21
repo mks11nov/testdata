@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 3700,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 3700,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "DIVISLAB",
+            "identifier": "OPTSTKDIVISLAB28-03-2024PE3700.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 800,
+            "totalSellQuantity": 0,
+            "bidQty": 800,
+            "bidprice": 70,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 3827
+        }
+    },
+    {
+        "strikePrice": 3800,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 3800,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "DIVISLAB",
+            "identifier": "OPTSTKDIVISLAB28-03-2024PE3800.00",
+            "openInterest": 4,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 83.95,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 400,
+            "totalSellQuantity": 0,
+            "bidQty": 400,
+            "bidprice": 112.35,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 3827
+        }
+    }
+]

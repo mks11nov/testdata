@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 1200,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1200,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "TECHM",
+            "identifier": "OPTSTKTECHM28-03-2024PE1200.00",
+            "openInterest": 2,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 20,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 600,
+            "totalSellQuantity": 0,
+            "bidQty": 600,
+            "bidprice": 10,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1321.05
+        }
+    },
+    {
+        "strikePrice": 1300,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 1300,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "TECHM",
+            "identifier": "OPTSTKTECHM28-03-2024PE1300.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 600,
+            "totalSellQuantity": 0,
+            "bidQty": 600,
+            "bidprice": 40,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 1321.05
+        }
+    }
+]

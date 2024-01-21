@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 400,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 400,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "IGL",
+            "identifier": "OPTSTKIGL28-03-2024PE400.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 4125,
+            "totalSellQuantity": 0,
+            "bidQty": 4125,
+            "bidprice": 3.1,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 445.4
+        }
+    },
+    {
+        "strikePrice": 420,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 420,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "IGL",
+            "identifier": "OPTSTKIGL28-03-2024PE420.00",
+            "openInterest": 5,
+            "changeinOpenInterest": -1,
+            "pchangeinOpenInterest": -16.666666666666668,
+            "totalTradedVolume": 3,
+            "impliedVolatility": 34.03,
+            "lastPrice": 12.05,
+            "change": -1.1499999999999986,
+            "pChange": -8.712121212121202,
+            "totalBuyQuantity": 4125,
+            "totalSellQuantity": 2750,
+            "bidQty": 1375,
+            "bidprice": 12,
+            "askQty": 1375,
+            "askPrice": 15.15,
+            "underlyingValue": 445.4
+        }
+    },
+    {
+        "strikePrice": 440,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 440,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "IGL",
+            "identifier": "OPTSTKIGL28-03-2024CE440.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 1375,
+            "totalSellQuantity": 0,
+            "bidQty": 1375,
+            "bidprice": 26,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 445.4
+        }
+    },
+    {
+        "strikePrice": 450,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 450,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "IGL",
+            "identifier": "OPTSTKIGL28-03-2024CE450.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 445.4
+        }
+    }
+]

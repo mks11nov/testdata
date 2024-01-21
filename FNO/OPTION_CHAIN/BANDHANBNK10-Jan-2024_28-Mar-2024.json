@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 220,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 220,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANDHANBNK",
+            "identifier": "OPTSTKBANDHANBNK28-03-2024PE220.00",
+            "openInterest": 3,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 8.75,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2500,
+            "totalSellQuantity": 0,
+            "bidQty": 2500,
+            "bidprice": 6.7,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 231.1
+        }
+    },
+    {
+        "strikePrice": 230,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 230,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BANDHANBNK",
+            "identifier": "OPTSTKBANDHANBNK28-03-2024PE230.00",
+            "openInterest": 3,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 13.1,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 2500,
+            "totalSellQuantity": 0,
+            "bidQty": 2500,
+            "bidprice": 10,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 231.1
+        }
+    }
+]

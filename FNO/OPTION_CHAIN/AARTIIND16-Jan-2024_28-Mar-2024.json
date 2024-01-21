@@ -1,0 +1,102 @@
+[
+    {
+        "strikePrice": 550,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 550,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "AARTIIND",
+            "identifier": "OPTSTKAARTIIND28-03-2024PE550.00",
+            "openInterest": 18,
+            "changeinOpenInterest": 1,
+            "pchangeinOpenInterest": 5.882352941176471,
+            "totalTradedVolume": 2,
+            "impliedVolatility": 32.17,
+            "lastPrice": 10.7,
+            "change": 2.749999999999999,
+            "pChange": 34.591194968553445,
+            "totalBuyQuantity": 6000,
+            "totalSellQuantity": 2000,
+            "bidQty": 1000,
+            "bidprice": 7.65,
+            "askQty": 2000,
+            "askPrice": 11,
+            "underlyingValue": 600
+        }
+    },
+    {
+        "strikePrice": 580,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 580,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "AARTIIND",
+            "identifier": "OPTSTKAARTIIND28-03-2024PE580.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 600
+        }
+    },
+    {
+        "strikePrice": 600,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 600,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "AARTIIND",
+            "identifier": "OPTSTKAARTIIND28-03-2024PE600.00",
+            "openInterest": 2,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 25,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 0,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 600
+        }
+    },
+    {
+        "strikePrice": 610,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 610,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "AARTIIND",
+            "identifier": "OPTSTKAARTIIND28-03-2024CE610.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 0,
+            "totalSellQuantity": 1000,
+            "bidQty": 0,
+            "bidprice": 0,
+            "askQty": 1000,
+            "askPrice": 59,
+            "underlyingValue": 600
+        }
+    }
+]

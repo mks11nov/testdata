@@ -1,0 +1,73 @@
+[
+    {
+        "strikePrice": 800,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 800,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "JSWSTEEL",
+            "identifier": "OPTSTKJSWSTEEL28-03-2024PE800.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 1350,
+            "totalSellQuantity": 1350,
+            "bidQty": 675,
+            "bidprice": 21.05,
+            "askQty": 1350,
+            "askPrice": 34,
+            "underlyingValue": 832.45
+        }
+    },
+    {
+        "strikePrice": 850,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 850,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "JSWSTEEL",
+            "identifier": "OPTSTKJSWSTEEL28-03-2024CE850.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 675,
+            "totalSellQuantity": 0,
+            "bidQty": 675,
+            "bidprice": 40.05,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 832.45
+        },
+        "PE": {
+            "strikePrice": 850,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "JSWSTEEL",
+            "identifier": "OPTSTKJSWSTEEL28-03-2024PE850.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 1350,
+            "totalSellQuantity": 0,
+            "bidQty": 675,
+            "bidprice": 40.05,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 832.45
+        }
+    }
+]

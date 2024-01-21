@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 100,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 100,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "SAIL",
+            "identifier": "OPTSTKSAIL29-02-2024PE100.00",
+            "openInterest": 21,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 1.4,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 72000,
+            "totalSellQuantity": 0,
+            "bidQty": 8000,
+            "bidprice": 0.8,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 115
+        }
+    },
+    {
+        "strikePrice": 110,
+        "expiryDate": "29-Feb-2024",
+        "PE": {
+            "strikePrice": 110,
+            "expiryDate": "29-Feb-2024",
+            "underlying": "SAIL",
+            "identifier": "OPTSTKSAIL29-02-2024PE110.00",
+            "openInterest": 10,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 3.3,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 8000,
+            "totalSellQuantity": 0,
+            "bidQty": 8000,
+            "bidprice": 1.6,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 115
+        }
+    }
+]

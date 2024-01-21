@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 210,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 210,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "PETRONET",
+            "identifier": "OPTSTKPETRONET28-03-2024PE210.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 3000,
+            "totalSellQuantity": 3000,
+            "bidQty": 3000,
+            "bidprice": 1,
+            "askQty": 3000,
+            "askPrice": 3,
+            "underlyingValue": 232.05
+        }
+    },
+    {
+        "strikePrice": 240,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 240,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "PETRONET",
+            "identifier": "OPTSTKPETRONET28-03-2024CE240.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 12000,
+            "totalSellQuantity": 0,
+            "bidQty": 6000,
+            "bidprice": 3.35,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 232.05
+        }
+    }
+]

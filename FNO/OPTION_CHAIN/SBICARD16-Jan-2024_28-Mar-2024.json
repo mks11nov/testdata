@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 700,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 700,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "SBICARD",
+            "identifier": "OPTSTKSBICARD28-03-2024PE700.00",
+            "openInterest": 41,
+            "changeinOpenInterest": 1,
+            "pchangeinOpenInterest": 2.5,
+            "totalTradedVolume": 26,
+            "impliedVolatility": 29.71,
+            "lastPrice": 10.75,
+            "change": 2,
+            "pChange": 22.857142857142858,
+            "totalBuyQuantity": 4000,
+            "totalSellQuantity": 1600,
+            "bidQty": 800,
+            "bidprice": 9.2,
+            "askQty": 800,
+            "askPrice": 10,
+            "underlyingValue": 766.5
+        }
+    },
+    {
+        "strikePrice": 750,
+        "expiryDate": "28-Mar-2024",
+        "PE": {
+            "strikePrice": 750,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "SBICARD",
+            "identifier": "OPTSTKSBICARD28-03-2024PE750.00",
+            "openInterest": 45,
+            "changeinOpenInterest": -5,
+            "pchangeinOpenInterest": -10,
+            "totalTradedVolume": 7,
+            "impliedVolatility": 29.82,
+            "lastPrice": 26,
+            "change": -2.9499999999999993,
+            "pChange": -10.18998272884283,
+            "totalBuyQuantity": 3200,
+            "totalSellQuantity": 0,
+            "bidQty": 800,
+            "bidprice": 24.25,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 766.5
+        }
+    }
+]

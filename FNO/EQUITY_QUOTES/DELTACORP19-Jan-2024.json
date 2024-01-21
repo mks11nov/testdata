@@ -1,0 +1,4205 @@
+{
+    "info": {
+        "symbol": "DELTACORP",
+        "companyName": "Delta Corp Limited",
+        "industry": "CONSTRUCTION",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "tempSuspendedSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE124G01033"
+    },
+    "underlyingValue": 144.35,
+    "vfq": 150001,
+    "fut_timestamp": "19-Jan-2024 15:30:07",
+    "opt_timestamp": "19-Jan-2024 15:30:09",
+    "stocks": [
+        {
+            "metadata": {
+                "instrumentType": "Stock Futures",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "-",
+                "strikePrice": 0,
+                "identifier": "FUTSTKDELTACORP25-01-2024XX0.00",
+                "openPrice": 145.85,
+                "highPrice": 146.25,
+                "lowPrice": 143.9,
+                "closePrice": 144.25,
+                "prevClose": 143.55,
+                "lastPrice": 144,
+                "change": 0.44999999999998863,
+                "pChange": 0.31347962382444344,
+                "numberOfContractsTraded": 51,
+                "totalTurnover": 221.68
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 0,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 84000,
+                "totalSellQuantity": 126000,
+                "bid": [
+                    {
+                        "price": 142.5,
+                        "quantity": 21000
+                    },
+                    {
+                        "price": 142.45,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 141.65,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 141.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 141.15,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 144.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 145.35,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 146.05,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 146.35,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 146.4,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 142.5,
+                        "bestSell": 144.55,
+                        "lastPrice": 144
+                    },
+                    "carry": {
+                        "bestBuy": -78.4683472681195,
+                        "bestSell": 8.422754316583925,
+                        "lastPrice": -14.767939742072437
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 51,
+                    "value": 221.68,
+                    "vmap": 144.89,
+                    "premiumTurnover": 221.68169999999995,
+                    "openInterest": 4610,
+                    "changeinOpenInterest": -51,
+                    "pchangeinOpenInterest": -1.0941857970392619,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 144.25,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 175,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE175.00",
+                "openPrice": 0.15,
+                "highPrice": 0.4,
+                "lowPrice": 0.15,
+                "closePrice": 0.3,
+                "prevClose": 0.2,
+                "lastPrice": 0.3,
+                "change": 0.09999999999999998,
+                "pChange": 49.999999999999986,
+                "numberOfContractsTraded": 24,
+                "totalTurnover": 0.17
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 75000,
+                "totalSellQuantity": 45000,
+                "bid": [
+                    {
+                        "price": 0.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.2,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.15,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 27000
+                    },
+                    {
+                        "price": 0.05,
+                        "quantity": 27000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.3,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.4,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 1.95,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 12000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.25,
+                        "bestSell": 0.3,
+                        "lastPrice": 0.3
+                    },
+                    "carry": {
+                        "bestBuy": -38681.08954230874,
+                        "bestSell": -37571.966738478855,
+                        "lastPrice": -37571.966738478855
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 24,
+                    "value": 0.17,
+                    "vmap": 0.24,
+                    "premiumTurnover": 126.1728,
+                    "openInterest": 215,
+                    "changeinOpenInterest": -24,
+                    "pchangeinOpenInterest": -10.0418410041841,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 86.21,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 160,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE160.00",
+                "openPrice": 1.05,
+                "highPrice": 1.05,
+                "lowPrice": 0.5,
+                "closePrice": 0.5,
+                "prevClose": 1.15,
+                "lastPrice": 0.5,
+                "change": -0.6499999999999999,
+                "pChange": -56.52173913043478,
+                "numberOfContractsTraded": 23,
+                "totalTurnover": 0.41
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 33000,
+                "totalSellQuantity": 126000,
+                "bid": [
+                    {
+                        "price": 0.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.4,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.3,
+                        "quantity": 18000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.7,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 0.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.5,
+                        "quantity": 6000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.5,
+                        "bestSell": 0.7,
+                        "lastPrice": 0.5
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -32417.571421123368,
+                        "lastPrice": -3.3580166476683084
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 23,
+                    "value": 0.41,
+                    "vmap": 0.59,
+                    "premiumTurnover": 110.8071,
+                    "openInterest": 435,
+                    "changeinOpenInterest": -23,
+                    "pchangeinOpenInterest": -5.021834061135372,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 59.6,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 170,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE170.00",
+                "openPrice": 0.4,
+                "highPrice": 0.5,
+                "lowPrice": 0.15,
+                "closePrice": 0.4,
+                "prevClose": 0.4,
+                "lastPrice": 0.5,
+                "change": 0.09999999999999998,
+                "pChange": 24.999999999999993,
+                "numberOfContractsTraded": 19,
+                "totalTurnover": 0.17
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 60000,
+                "totalSellQuantity": 87000,
+                "bid": [
+                    {
+                        "price": 0.25,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.2,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.15,
+                        "quantity": 18000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 24000
+                    },
+                    {
+                        "price": 0.05,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.75,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.8,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 1.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.95,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3.4,
+                        "quantity": 63000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.25,
+                        "bestSell": 0.75,
+                        "lastPrice": 0.5
+                    },
+                    "carry": {
+                        "bestBuy": -38681.08954230874,
+                        "bestSell": -31997.864786244412,
+                        "lastPrice": -34464.44419390241
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 19,
+                    "value": 0.17,
+                    "vmap": 0.29,
+                    "premiumTurnover": 97.0653,
+                    "openInterest": 288,
+                    "changeinOpenInterest": -19,
+                    "pchangeinOpenInterest": -6.188925081433225,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 84.4,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 150,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE150.00",
+                "openPrice": 1.7,
+                "highPrice": 1.7,
+                "lowPrice": 1.4,
+                "closePrice": 1.4,
+                "prevClose": 1.6,
+                "lastPrice": 1.4,
+                "change": -0.20000000000000018,
+                "pChange": -12.50000000000001,
+                "numberOfContractsTraded": 8,
+                "totalTurnover": 0.39
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 63000,
+                "totalSellQuantity": 15000,
+                "bid": [
+                    {
+                        "price": 1.15,
+                        "quantity": 21000
+                    },
+                    {
+                        "price": 1.1,
+                        "quantity": 30000
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.3,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 2.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 6,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.15,
+                        "bestSell": 2.1,
+                        "lastPrice": 1.4
+                    },
+                    "carry": {
+                        "bestBuy": -29397.58036271386,
+                        "bestSell": -25734.34666505903,
+                        "lastPrice": -28200.926072717037
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 8,
+                    "value": 0.39,
+                    "vmap": 1.63,
+                    "premiumTurnover": 36.3912,
+                    "openInterest": 265,
+                    "changeinOpenInterest": -8,
+                    "pchangeinOpenInterest": -2.93040293040293,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 45.87,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 125,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE125.00",
+                "openPrice": 0.2,
+                "highPrice": 0.2,
+                "lowPrice": 0.1,
+                "closePrice": 0.1,
+                "prevClose": 0.2,
+                "lastPrice": 0.1,
+                "change": -0.1,
+                "pChange": -50,
+                "numberOfContractsTraded": 5,
+                "totalTurnover": 0.02
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 30000,
+                "totalSellQuantity": 18000,
+                "bid": [
+                    {
+                        "price": 0.15,
+                        "quantity": 24000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.45,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.15,
+                        "bestSell": 0.45,
+                        "lastPrice": 0.1
+                    },
+                    "carry": {
+                        "bestBuy": -41788.61208688518,
+                        "bestSell": -35105.38733082086,
+                        "lastPrice": -44255.19149454319
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 5,
+                    "value": 0.02,
+                    "vmap": 0.14,
+                    "premiumTurnover": 18.771,
+                    "openInterest": 71,
+                    "changeinOpenInterest": -5,
+                    "pchangeinOpenInterest": -6.578947368421052,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 58.5,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 165,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE165.00",
+                "openPrice": 0.4,
+                "highPrice": 0.65,
+                "lowPrice": 0.4,
+                "closePrice": 0.6,
+                "prevClose": 0.7,
+                "lastPrice": 0.6,
+                "change": -0.09999999999999998,
+                "pChange": -14.285714285714283,
+                "numberOfContractsTraded": 4,
+                "totalTurnover": 0.07
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 48000,
+                "totalSellQuantity": 30000,
+                "bid": [
+                    {
+                        "price": 0.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 0.4,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.2,
+                        "quantity": 6000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.8,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 1.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.65,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.7,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.95,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.55,
+                        "bestSell": 0.8,
+                        "lastPrice": 0.6
+                    },
+                    "carry": {
+                        "bestBuy": -33884.64060009277,
+                        "bestSell": -31605.25544932419,
+                        "lastPrice": -33355.32139007252
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 4,
+                    "value": 0.07,
+                    "vmap": 0.57,
+                    "premiumTurnover": 19.8684,
+                    "openInterest": 108,
+                    "changeinOpenInterest": -4,
+                    "pchangeinOpenInterest": -3.5714285714285716,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 75.78,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 130,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE130.00",
+                "openPrice": 0.15,
+                "highPrice": 0.5,
+                "lowPrice": 0.15,
+                "closePrice": 0.5,
+                "prevClose": 0.35,
+                "lastPrice": 0.5,
+                "change": 0.15000000000000002,
+                "pChange": 42.85714285714287,
+                "numberOfContractsTraded": 3,
+                "totalTurnover": 0.03
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 15000,
+                "totalSellQuantity": 12000,
+                "bid": [
+                    {
+                        "price": 0.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.2,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.15,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.7,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 1.4,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.25,
+                        "bestSell": 0.7,
+                        "lastPrice": 0.5
+                    },
+                    "carry": {
+                        "bestBuy": -38681.08954230874,
+                        "bestSell": -32417.571421123368,
+                        "lastPrice": -34464.44419390241
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 3,
+                    "value": 0.03,
+                    "vmap": 0.28,
+                    "premiumTurnover": 11.7252,
+                    "openInterest": 147,
+                    "changeinOpenInterest": -3,
+                    "pchangeinOpenInterest": -2,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 63.49,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 150,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE150.00",
+                "openPrice": 6.4,
+                "highPrice": 6.4,
+                "lowPrice": 5,
+                "closePrice": 5.25,
+                "prevClose": 6.75,
+                "lastPrice": 5.25,
+                "change": -1.5,
+                "pChange": -22.22222222222222,
+                "numberOfContractsTraded": 3,
+                "totalTurnover": 0.5
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 42000,
+                "totalSellQuantity": 36000,
+                "bid": [
+                    {
+                        "price": 4.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 3.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 5.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 6.5,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 8.5,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 9,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 4.25,
+                        "bestSell": 5.9,
+                        "lastPrice": 5.25
+                    },
+                    "carry": {
+                        "bestBuy": -21445.708365966762,
+                        "bestSell": -19450.172044116727,
+                        "lastPrice": -20160.24471282459
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 3,
+                    "value": 0.5,
+                    "vmap": 5.55,
+                    "premiumTurnover": 13.9995,
+                    "openInterest": 164,
+                    "changeinOpenInterest": -3,
+                    "pchangeinOpenInterest": -1.7964071856287425,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Futures",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "-",
+                "strikePrice": 0,
+                "identifier": "FUTSTKDELTACORP29-02-2024XX0.00",
+                "openPrice": 146.8,
+                "highPrice": 146.8,
+                "lowPrice": 146.4,
+                "closePrice": 146.4,
+                "prevClose": 145.3,
+                "lastPrice": 146.4,
+                "change": 1.0999999999999943,
+                "pChange": 0.7570543702684062,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 8.8
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 0,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 60000,
+                "totalSellQuantity": 36000,
+                "bid": [
+                    {
+                        "price": 145.4,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 143.75,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 143.7,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 142.6,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 142.35,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 146.4,
+                        "quantity": 24000
+                    },
+                    {
+                        "price": 147.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 147.45,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 147.85,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 145.4,
+                        "bestSell": 146.4,
+                        "lastPrice": 146.4
+                    },
+                    "carry": {
+                        "bestBuy": 6.452184223227767,
+                        "bestSell": 12.553948360164721,
+                        "lastPrice": 0.026042900362616552
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 8.8,
+                    "vmap": 146.6,
+                    "premiumTurnover": 8.796,
+                    "openInterest": 1753,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -0.11396011396011396,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 145.85,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 155,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE155.00",
+                "openPrice": 2,
+                "highPrice": 2,
+                "lowPrice": 2,
+                "closePrice": 2,
+                "prevClose": 4.7,
+                "lastPrice": 2,
+                "change": -2.7,
+                "pChange": -57.446808510638306,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.12
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 39000,
+                "totalSellQuantity": 45000,
+                "bid": [
+                    {
+                        "price": 1.85,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 1.8,
+                        "quantity": 18000
+                    },
+                    {
+                        "price": 1.7,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 3.95,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4.7,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 6.95,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.85,
+                        "bestSell": 3.95,
+                        "lastPrice": 2
+                    },
+                    "carry": {
+                        "bestBuy": -26505.419541030486,
+                        "bestSell": -21891.02907377514,
+                        "lastPrice": -26031.153497089745
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.12,
+                    "vmap": 2,
+                    "premiumTurnover": 9.42,
+                    "openInterest": 314,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -0.6329113924050633,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 75.46,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 145,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE145.00",
+                "openPrice": 5,
+                "highPrice": 5,
+                "lowPrice": 5,
+                "closePrice": 5,
+                "prevClose": 7.45,
+                "lastPrice": 5,
+                "change": -2.45,
+                "pChange": -32.88590604026846,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.3
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 9000,
+                "totalSellQuantity": 339000,
+                "bid": [
+                    {
+                        "price": 4.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 7.4,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 10,
+                        "quantity": 336000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 4.55,
+                        "bestSell": 7.4,
+                        "lastPrice": 5
+                    },
+                    "carry": {
+                        "bestBuy": -21030.774844972017,
+                        "bestSell": -18072.128844217823,
+                        "lastPrice": -20457.051544855298
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.3,
+                    "vmap": 5,
+                    "premiumTurnover": 9,
+                    "openInterest": 138,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -1.4285714285714286,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 70.4,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 157.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE157.50",
+                "openPrice": 0.85,
+                "highPrice": 0.85,
+                "lowPrice": 0.85,
+                "closePrice": 0.85,
+                "prevClose": 1.2,
+                "lastPrice": 0.85,
+                "change": -0.35,
+                "pChange": -29.166666666666668,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.05
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 57000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0.85,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.8,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.65,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 0.55,
+                        "quantity": 21000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.85,
+                        "bestSell": 1,
+                        "lastPrice": 0.85
+                    },
+                    "carry": {
+                        "bestBuy": -31236.45566660754,
+                        "bestSell": -30247.798845496072,
+                        "lastPrice": -31236.45566660754
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.05,
+                    "vmap": 0.85,
+                    "premiumTurnover": 9.501,
+                    "openInterest": 40,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -4.761904761904762,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 61.75,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 152.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE152.50",
+                "openPrice": 7.5,
+                "highPrice": 7.5,
+                "lowPrice": 7.5,
+                "closePrice": 7.5,
+                "prevClose": 6,
+                "lastPrice": 7.5,
+                "change": 1.5,
+                "pChange": 25,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.23
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 15000,
+                "totalSellQuantity": 6000,
+                "bid": [
+                    {
+                        "price": 0.5,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 8.4,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 8.45,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.5,
+                        "bestSell": 8.4,
+                        "lastPrice": 7.5
+                    },
+                    "carry": {
+                        "bestBuy": -15906.66655103188,
+                        "bestSell": -17301.055968246365,
+                        "lastPrice": -17990.4721371973
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.23,
+                    "vmap": 7.5,
+                    "premiumTurnover": 4.8,
+                    "openInterest": 28,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -3.4482758620689653,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 135,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE135.00",
+                "openPrice": 0.7,
+                "highPrice": 0.7,
+                "lowPrice": 0.7,
+                "closePrice": 0.7,
+                "prevClose": 1.3,
+                "lastPrice": 0.7,
+                "change": -0.6000000000000001,
+                "pChange": -46.15384615384615,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.02
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 24000,
+                "totalSellQuantity": 69000,
+                "bid": [
+                    {
+                        "price": 0.8,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.7,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.45,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 1.7,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 1.75,
+                        "quantity": 36000
+                    },
+                    {
+                        "price": 1.9,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 2.15,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.2,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.8,
+                        "bestSell": 1.7,
+                        "lastPrice": 0.7
+                    },
+                    "carry": {
+                        "bestBuy": -31605.25544932419,
+                        "bestSell": -27019.810318201206,
+                        "lastPrice": -32417.571421123368
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.02,
+                    "vmap": 0.7,
+                    "premiumTurnover": 4.071,
+                    "openInterest": 141,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -0.704225352112676,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 51.22,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 120,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE120.00",
+                "openPrice": 0.05,
+                "highPrice": 0.05,
+                "lowPrice": 0.05,
+                "closePrice": 0.05,
+                "prevClose": 0.2,
+                "lastPrice": 0.05,
+                "change": -0.15000000000000002,
+                "pChange": -75.00000000000001,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 33000,
+                "totalSellQuantity": 18000,
+                "bid": [
+                    {
+                        "price": 0.05,
+                        "quantity": 33000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 2.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.05,
+                        "bestSell": 2.25,
+                        "lastPrice": 0.05
+                    },
+                    "carry": {
+                        "bestBuy": -48471.83684294952,
+                        "bestSell": -25314.640030180075,
+                        "lastPrice": -48471.83684294952
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0,
+                    "vmap": 0.05,
+                    "premiumTurnover": 3.6015,
+                    "openInterest": 124,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -0.8,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 65.32,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Call",
+                "strikePrice": 160,
+                "identifier": "OPTSTKDELTACORP29-02-2024CE160.00",
+                "openPrice": 8.9,
+                "highPrice": 8.9,
+                "lowPrice": 8.9,
+                "closePrice": 8.9,
+                "prevClose": 6,
+                "lastPrice": 8.9,
+                "change": 2.9000000000000004,
+                "pChange": 48.33333333333334,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.27
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 3.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 8.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 3.1,
+                        "bestSell": 8.9,
+                        "lastPrice": 8.9
+                    },
+                    "carry": {
+                        "bestBuy": -3419.2833171597877,
+                        "bestSell": -2480.3883285862444,
+                        "lastPrice": -2480.3883285862444
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.27,
+                    "vmap": 8.9,
+                    "premiumTurnover": 5.067,
+                    "openInterest": 11,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -8.333333333333334,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 73.46,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 175,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE175.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 20.15,
+                "prevClose": 20.15,
+                "lastPrice": 20.35,
+                "change": 0.20000000000000284,
+                "pChange": 0.9925558312655229,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 36,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 36,
+                        "lastPrice": 20.35
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -8448.058636554739,
+                        "lastPrice": -11918.223298173736
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 5,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 162.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE162.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 4.1,
+                "prevClose": 4.1,
+                "lastPrice": 3.95,
+                "change": -0.14999999999999947,
+                "pChange": -3.658536585365841,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 3.95
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -21891.02907377514
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 7,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 157.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE157.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 8.95,
+                "prevClose": 8.95,
+                "lastPrice": 8.95,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 6000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 5.2,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 5.2,
+                        "bestSell": 0,
+                        "lastPrice": 8.95
+                    },
+                    "carry": {
+                        "bestBuy": -20218.45887317284,
+                        "bestSell": 0,
+                        "lastPrice": -16915.239857418263
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 19,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 155,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE155.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 9.5,
+                "prevClose": 9.5,
+                "lastPrice": 9.5,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 15000,
+                "bid": [
+                    {
+                        "price": 5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 9.5,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 11.95,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 12.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 12.8,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 5,
+                        "bestSell": 9.5,
+                        "lastPrice": 9.5
+                    },
+                    "carry": {
+                        "bestBuy": 6.223308283178613,
+                        "bestSell": -16552.44040397323,
+                        "lastPrice": -16552.44040397323
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 87,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 180,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE180.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 0.25,
+                "prevClose": 0.25,
+                "lastPrice": 0.25,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 66000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0.2,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.15,
+                        "quantity": 21000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 21000
+                    },
+                    {
+                        "price": 0.05,
+                        "quantity": 18000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.2,
+                        "bestSell": 0.5,
+                        "lastPrice": 0.25
+                    },
+                    "carry": {
+                        "bestBuy": -40038.546146136854,
+                        "bestSell": -34464.44419390241,
+                        "lastPrice": -38681.08954230874
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 85,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 140,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE140.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 1.9,
+                "prevClose": 1.9,
+                "lastPrice": 1.9,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 30000,
+                "totalSellQuantity": 15000,
+                "bid": [
+                    {
+                        "price": 1.75,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.7,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.3,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.7,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 2.8,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.85,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 5.5,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.75,
+                        "bestSell": 2.8,
+                        "lastPrice": 1.9
+                    },
+                    "carry": {
+                        "bestBuy": -26843.469468888925,
+                        "bestSell": -23984.280724310698,
+                        "lastPrice": -26343.187704614007
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 169,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 147.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE147.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 3.5,
+                "prevClose": 3.5,
+                "lastPrice": 3.6,
+                "change": 0.10000000000000009,
+                "pChange": 2.85714285714286,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 5,
+                        "lastPrice": 3.6
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -20457.051544855298,
+                        "lastPrice": -22455.451285601852
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 29,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 147.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE147.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 11.85,
+                "prevClose": 11.85,
+                "lastPrice": 11.4,
+                "change": -0.4499999999999993,
+                "pChange": -3.797468354430374,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 6000,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 8.45,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 8.45,
+                        "lastPrice": 11.4
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -17264.95299383416,
+                        "lastPrice": -15443.31760014334
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 30,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 110,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE110.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 0.15,
+                "prevClose": 0.15,
+                "lastPrice": 0.15,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 21000,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.9,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.95,
+                        "quantity": 15000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0.9,
+                        "lastPrice": 0.15
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 10296.247327471507,
+                        "lastPrice": -41788.61208688518
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 10,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 145,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE145.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 4,
+                "prevClose": 4,
+                "lastPrice": 4,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 27000,
+                "totalSellQuantity": 24000,
+                "bid": [
+                    {
+                        "price": 2.1,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.25,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 4.5,
+                        "quantity": 12000
+                    },
+                    {
+                        "price": 5.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 5.5,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 2.1,
+                        "bestSell": 4.5,
+                        "lastPrice": 4
+                    },
+                    "carry": {
+                        "bestBuy": -25734.34666505903,
+                        "bestSell": -21097.994681773744,
+                        "lastPrice": -21814.508148683406
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 78,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 160,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE160.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 17,
+                "prevClose": 17,
+                "lastPrice": 17,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 12000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 8.35,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 8,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 15,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 9,
+                        "bestSell": 15,
+                        "lastPrice": 17
+                    },
+                    "carry": {
+                        "bestBuy": -16881.349333367405,
+                        "bestSell": -13773.826788790966,
+                        "lastPrice": -13012.417669154096
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 147,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 132.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024PE132.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 0.95,
+                "prevClose": 0.95,
+                "lastPrice": 0.95,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0.35,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.35,
+                        "bestSell": 0,
+                        "lastPrice": 0.95
+                    },
+                    "carry": {
+                        "bestBuy": -36634.216769529696,
+                        "bestSell": 0,
+                        "lastPrice": -30559.833053020342
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 1,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 130,
+                "identifier": "OPTSTKDELTACORP29-02-2024PE130.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 2.3,
+                "prevClose": 2.3,
+                "lastPrice": 2.3,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 9000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.3,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 5.9,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1,
+                        "bestSell": 5.9,
+                        "lastPrice": 2.3
+                    },
+                    "carry": {
+                        "bestBuy": -4426.507148121376,
+                        "bestSell": -2846.366640602448,
+                        "lastPrice": -3685.014880142565
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 12,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 152.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE152.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 2.05,
+                "prevClose": 2.05,
+                "lastPrice": 2.05,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 24000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 1.15,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 1.1,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.15,
+                        "bestSell": 0,
+                        "lastPrice": 2.05
+                    },
+                    "carry": {
+                        "bestBuy": -29397.58036271386,
+                        "bestSell": 0,
+                        "lastPrice": -25880.940103831646
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 39,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Call",
+                "strikePrice": 170,
+                "identifier": "OPTSTKDELTACORP29-02-2024CE170.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 9.25,
+                "prevClose": 9.25,
+                "lastPrice": 9.25,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 6000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 3.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.3,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 5.4,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 3.2,
+                        "bestSell": 5.4,
+                        "lastPrice": 9.25
+                    },
+                    "carry": {
+                        "bestBuy": -3391.019232074856,
+                        "bestSell": -2925.2007626259297,
+                        "lastPrice": -2446.0495961545917
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 14,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 130,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE130.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 27,
+                "prevClose": 27,
+                "lastPrice": 27,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 27
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -10198.124577303075
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 11,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 140,
+                "identifier": "OPTSTKDELTACORP29-02-2024PE140.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 6.2,
+                "prevClose": 6.2,
+                "lastPrice": 6.2,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 11,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 11,
+                        "lastPrice": 6.2
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -2291.7955028252663,
+                        "lastPrice": -2802.213266173495
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 2,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 167.5,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE167.50",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 3.25,
+                "prevClose": 3.25,
+                "lastPrice": 3.25,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 15000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0.25,
+                        "quantity": 9000
+                    },
+                    {
+                        "price": 0.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.1,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.25,
+                        "bestSell": 0,
+                        "lastPrice": 3.25
+                    },
+                    "carry": {
+                        "bestBuy": -38681.08954230874,
+                        "bestSell": 0,
+                        "lastPrice": -23077.647617751063
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 10,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Call",
+                "strikePrice": 155,
+                "identifier": "OPTSTKDELTACORP29-02-2024CE155.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 14.5,
+                "prevClose": 14.5,
+                "lastPrice": 14.5,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 14.5
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -2045.8626187538575
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 16,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 150,
+                "identifier": "OPTSTKDELTACORP29-02-2024PE150.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 9.5,
+                "prevClose": 9.5,
+                "lastPrice": 9.5,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 5.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 5.55,
+                        "bestSell": 0,
+                        "lastPrice": 9.5
+                    },
+                    "carry": {
+                        "bestBuy": -2900.808992921877,
+                        "bestSell": 0,
+                        "lastPrice": -2422.3083518009603
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 9,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Call",
+                "strikePrice": 180,
+                "identifier": "OPTSTKDELTACORP29-02-2024CE180.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 6.25,
+                "prevClose": 6.25,
+                "lastPrice": 6.05,
+                "change": -0.20000000000000018,
+                "pChange": -3.200000000000003,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 9000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 1.15,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.1,
+                        "quantity": 6000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.15,
+                        "bestSell": 0,
+                        "lastPrice": 6.05
+                    },
+                    "carry": {
+                        "bestBuy": 10375.616598604893,
+                        "bestSell": 0,
+                        "lastPrice": -2824.0162474003923
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 33,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 140,
+                "identifier": "OPTSTKDELTACORP25-01-2024CE140.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 10,
+                "prevClose": 10,
+                "lastPrice": 10,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 144.35,
+            "volumeFreezeQuantity": 150001,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 6000,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 2.5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 2.45,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 13,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 2.5,
+                        "bestSell": 13,
+                        "lastPrice": 10
+                    },
+                    "carry": {
+                        "bestBuy": -24673.696893261633,
+                        "bestSell": -3820.2670228534944,
+                        "lastPrice": -16240.406196448967
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 68,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 3000
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.96,
+                    "annualisedVolatility": 56.62,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 35744131
+                }
+            }
+        }
+    ],
+    "strikePrices": [
+        0,
+        0,
+        110,
+        120,
+        125,
+        130,
+        130,
+        130,
+        132.5,
+        135,
+        140,
+        140,
+        140,
+        145,
+        145,
+        147.5,
+        147.5,
+        150,
+        150,
+        150,
+        152.5,
+        152.5,
+        155,
+        155,
+        155,
+        157.5,
+        157.5,
+        160,
+        160,
+        160,
+        162.5,
+        165,
+        167.5,
+        170,
+        170,
+        175,
+        175,
+        180,
+        180
+    ],
+    "expiryDates": [
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024"
+    ],
+    "allSymbol": [
+        "DELTACORP",
+        "TATACONSUM",
+        "IRCTC",
+        "SHRIRAMFIN",
+        "EICHERMOT",
+        "PNB",
+        "TATACHEM",
+        "HINDUNILVR",
+        "LAURUSLABS",
+        "AUROPHARMA",
+        "MANAPPURAM",
+        "PFC",
+        "TATAMOTORS",
+        "UPL",
+        "CUB",
+        "INDUSINDBK",
+        "ATUL",
+        "ABBOTINDIA",
+        "CONCOR",
+        "SUNTV",
+        "LUPIN",
+        "SUNPHARMA",
+        "NTPC",
+        "DABUR",
+        "INDUSTOWER",
+        "ABCAPITAL",
+        "LTTS",
+        "ASHOKLEY",
+        "BPCL",
+        "TATAPOWER",
+        "ICICIPRULI",
+        "JINDALSTEL",
+        "POWERGRID",
+        "EXIDEIND",
+        "INDIGO",
+        "NAVINFLUOR",
+        "TITAN",
+        "CROMPTON",
+        "BAJAJ-AUTO",
+        "PAGEIND",
+        "CANBK",
+        "BAJFINANCE",
+        "IDFC",
+        "METROPOLIS",
+        "ZEEL",
+        "HINDALCO",
+        "INDIACEM",
+        "L&TFH",
+        "RELIANCE",
+        "ICICIBANK",
+        "MRF",
+        "ABB",
+        "DRREDDY",
+        "POLYCAB",
+        "NATIONALUM",
+        "HINDPETRO",
+        "TRENT",
+        "SYNGENE",
+        "CIPLA",
+        "GRANULES",
+        "DEEPAKNTR",
+        "DIVISLAB",
+        "GUJGASLTD",
+        "OFSS",
+        "COALINDIA",
+        "COFORGE",
+        "NAUKRI",
+        "IDFCFIRSTB",
+        "NMDC",
+        "GAIL",
+        "UBL",
+        "VEDL",
+        "ACC",
+        "OBEROIRLTY",
+        "GODREJCP",
+        "AARTIIND",
+        "BEL",
+        "MARICO",
+        "PIDILITIND",
+        "HEROMOTOCO",
+        "BERGEPAINT",
+        "IPCALAB",
+        "BHEL",
+        "DIXON",
+        "HAL",
+        "BALKRISIND",
+        "LALPATHLAB",
+        "ITC",
+        "TORNTPHARM",
+        "GODREJPROP",
+        "BHARTIARTL",
+        "TATASTEEL",
+        "MCX",
+        "PVRINOX",
+        "SBICARD",
+        "BRITANNIA",
+        "LT",
+        "GRASIM",
+        "ABFRL",
+        "JKCEMENT",
+        "LTIM",
+        "HINDCOPPER",
+        "SBIN",
+        "SHREECEM",
+        "MARUTI",
+        "BALRAMCHIN",
+        "RECLTD",
+        "MFSL",
+        "WIPRO",
+        "NESTLEIND",
+        "ADANIPORTS",
+        "INFY",
+        "ALKEM",
+        "MOTHERSON",
+        "BAJAJFINSV",
+        "BSOFT",
+        "ICICIGI",
+        "SIEMENS",
+        "CUMMINSIND",
+        "HCLTECH",
+        "PIIND",
+        "MCDOWELL-N",
+        "BIOCON",
+        "INDHOTEL",
+        "TECHM",
+        "MPHASIS",
+        "SBILIFE",
+        "CANFINHOME",
+        "IEX",
+        "DLF",
+        "TATACOMM",
+        "GNFC",
+        "TCS",
+        "AMBUJACEM",
+        "SRF",
+        "AUBANK",
+        "CHOLAFIN",
+        "APOLLOTYRE",
+        "COLPAL",
+        "HDFCBANK",
+        "JUBLFOOD",
+        "BANKBARODA",
+        "GMRINFRA",
+        "AXISBANK",
+        "RAMCOCEM",
+        "VOLTAS",
+        "CHAMBLFERT",
+        "MUTHOOTFIN",
+        "IDEA",
+        "JSWSTEEL",
+        "M&MFIN",
+        "SAIL",
+        "ASIANPAINT",
+        "BATAINDIA",
+        "TVSMOTOR",
+        "ULTRACEMCO",
+        "IOC",
+        "ADANIENT",
+        "ONGC",
+        "BOSCHLTD",
+        "GLENMARK",
+        "PERSISTENT",
+        "HAVELLS",
+        "KOTAKBANK",
+        "PETRONET",
+        "FEDERALBNK",
+        "BHARATFORG",
+        "LICHSGFIN",
+        "IGL",
+        "DALBHARAT",
+        "ESCORTS",
+        "MGL",
+        "RBLBANK",
+        "M&M",
+        "HDFCLIFE",
+        "PEL",
+        "BANDHANBNK",
+        "APOLLOHOSP",
+        "HDFCAMC",
+        "COROMANDEL",
+        "INDIAMART",
+        "ASTRAL",
+        "ZYDUSLIFE"
+    ],
+    "underlyingInfo": {
+        "marketCap": [
+            {
+                "avgMktCap": "5611.1",
+                "month": "July      2023",
+                "avgDailyVol": "12950200"
+            },
+            {
+                "avgMktCap": "4913.42",
+                "month": "August    2023",
+                "avgDailyVol": "3693656"
+            },
+            {
+                "avgMktCap": "4585.84",
+                "month": "September 2023",
+                "avgDailyVol": "10743745"
+            },
+            {
+                "avgMktCap": "3588.2",
+                "month": "October   2023",
+                "avgDailyVol": "9054381"
+            },
+            {
+                "avgMktCap": "3704.36",
+                "month": "November  2023",
+                "avgDailyVol": "4127353"
+            },
+            {
+                "avgMktCap": "3781.87",
+                "month": "December  2023",
+                "avgDailyVol": "8858469"
+            }
+        ],
+        "volatility": [
+            {
+                "maxVolatility": "3.19",
+                "minVolatility": "2.49",
+                "avgVolatility": "3.03"
+            }
+        ]
+    },
+    "expiryDatesByInstrument": {
+        "Stock Futures": [
+            "25-Jan-2024",
+            "29-Feb-2024"
+        ],
+        "Stock Options": [
+            "25-Jan-2024",
+            "29-Feb-2024"
+        ]
+    }
+}

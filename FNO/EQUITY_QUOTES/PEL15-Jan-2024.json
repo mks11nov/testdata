@@ -1,0 +1,5325 @@
+{
+    "info": {
+        "symbol": "PEL",
+        "companyName": "Piramal Enterprises Limited",
+        "industry": "PHARMACEUTICALS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [
+            "N0",
+            "N1",
+            "N2",
+            "N3"
+        ],
+        "tempSuspendedSeries": [
+            "D1",
+            "D2"
+        ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE140A07773"
+    },
+    "underlyingValue": 929.95,
+    "vfq": 22501,
+    "fut_timestamp": "15-Jan-2024 15:28:57",
+    "opt_timestamp": "15-Jan-2024 15:29:53",
+    "stocks": [
+        {
+            "metadata": {
+                "instrumentType": "Stock Futures",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "-",
+                "strikePrice": 0,
+                "identifier": "FUTSTKPEL25-01-2024XX0.00",
+                "openPrice": 932.35,
+                "highPrice": 945,
+                "lowPrice": 924.05,
+                "closePrice": 932.4,
+                "prevClose": 933.5,
+                "lastPrice": 928,
+                "change": -5.5,
+                "pChange": -0.5891805034815212,
+                "numberOfContractsTraded": 174,
+                "totalTurnover": 1223.36
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 0,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 10500,
+                "totalSellQuantity": 233250,
+                "bid": [
+                    {
+                        "price": 925,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 920,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 915.15,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 911.15,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 908.15,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 937.2,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 937.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 938.5,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 939,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 940,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 925,
+                        "bestSell": 937.2,
+                        "lastPrice": 928
+                    },
+                    "carry": {
+                        "bestBuy": -19.480355682793917,
+                        "bestSell": 28.34548160964274,
+                        "lastPrice": -7.661672933513999
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 174,
+                    "value": 1223.36,
+                    "vmap": 937.44,
+                    "premiumTurnover": 1223.3592,
+                    "openInterest": 16892,
+                    "changeinOpenInterest": -174,
+                    "pchangeinOpenInterest": -1.0195710769951951,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 932.4,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1100,
+                "identifier": "OPTSTKPEL25-01-2024CE1100.00",
+                "openPrice": 2,
+                "highPrice": 2,
+                "lowPrice": 0.35,
+                "closePrice": 1.3,
+                "prevClose": 1.3,
+                "lastPrice": 1.3,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 44,
+                "totalTurnover": 0.39
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 54750,
+                "totalSellQuantity": 51750,
+                "bid": [
+                    {
+                        "price": 1.1,
+                        "quantity": 7500
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 3750
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0.55,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 15000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 1.8,
+                        "quantity": 30000
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 4500
+                    },
+                    {
+                        "price": 3.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.9,
+                        "quantity": 6750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.1,
+                        "bestSell": 1.8,
+                        "lastPrice": 1.3
+                    },
+                    "carry": {
+                        "bestBuy": -24600.34534131736,
+                        "bestSell": -22802.806170710413,
+                        "lastPrice": -23990.5979322968
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 44,
+                    "value": 0.39,
+                    "vmap": 1.17,
+                    "premiumTurnover": 363.3861,
+                    "openInterest": 884,
+                    "changeinOpenInterest": -44,
+                    "pchangeinOpenInterest": -4.741379310344827,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 55.28,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1000,
+                "identifier": "OPTSTKPEL25-01-2024CE1000.00",
+                "openPrice": 9,
+                "highPrice": 12,
+                "lowPrice": 8,
+                "closePrice": 9.05,
+                "prevClose": 10,
+                "lastPrice": 9.05,
+                "change": -0.9499999999999993,
+                "pChange": -9.499999999999993,
+                "numberOfContractsTraded": 25,
+                "totalTurnover": 1.69
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 48750,
+                "totalSellQuantity": 75000,
+                "bid": [
+                    {
+                        "price": 7.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.7,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 7.05,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.55,
+                        "quantity": 18000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 10.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 10.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 10.9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 11,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 12.05,
+                        "quantity": 1500
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 7.8,
+                        "bestSell": 10.5,
+                        "lastPrice": 9.05
+                    },
+                    "carry": {
+                        "bestBuy": -17450.675869614406,
+                        "bestSell": -16365.707808956451,
+                        "lastPrice": -16908.13613195495
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 25,
+                    "value": 1.69,
+                    "vmap": 9.02,
+                    "premiumTurnover": 189.19125,
+                    "openInterest": 1460,
+                    "changeinOpenInterest": -25,
+                    "pchangeinOpenInterest": -1.6835016835016836,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 50.45,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1050,
+                "identifier": "OPTSTKPEL25-01-2024CE1050.00",
+                "openPrice": 1.75,
+                "highPrice": 2.05,
+                "lowPrice": 0.5,
+                "closePrice": 2,
+                "prevClose": 2.25,
+                "lastPrice": 2,
+                "change": -0.25,
+                "pChange": -11.11111111111111,
+                "numberOfContractsTraded": 17,
+                "totalTurnover": 0.18
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 18750,
+                "totalSellQuantity": 1500,
+                "bid": [
+                    {
+                        "price": 1.5,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 1.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 6750
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 5250
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 3.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.5,
+                        "bestSell": 3.45,
+                        "lastPrice": 2
+                    },
+                    "carry": {
+                        "bestBuy": -23468.279853008346,
+                        "bestSell": -20428.161554295217,
+                        "lastPrice": -22418.240288559347
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 17,
+                    "value": 0.18,
+                    "vmap": 1.45,
+                    "premiumTurnover": 134.059875,
+                    "openInterest": 474,
+                    "changeinOpenInterest": -17,
+                    "pchangeinOpenInterest": -3.4623217922606924,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 46.4,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1080,
+                "identifier": "OPTSTKPEL25-01-2024CE1080.00",
+                "openPrice": 1.5,
+                "highPrice": 1.5,
+                "lowPrice": 1.5,
+                "closePrice": 1.5,
+                "prevClose": 1,
+                "lastPrice": 1.5,
+                "change": 0.5,
+                "pChange": 50,
+                "numberOfContractsTraded": 14,
+                "totalTurnover": 0.16
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0.55,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.55,
+                        "bestSell": 0,
+                        "lastPrice": 1.5
+                    },
+                    "carry": {
+                        "bestBuy": -20869.486577200896,
+                        "bestSell": 0,
+                        "lastPrice": 0
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 14,
+                    "value": 0.16,
+                    "vmap": 1.5,
+                    "premiumTurnover": 113.5575,
+                    "openInterest": 37,
+                    "changeinOpenInterest": -14,
+                    "pchangeinOpenInterest": -27.45098039215686,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 51.67,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 850,
+                "identifier": "OPTSTKPEL25-01-2024PE850.00",
+                "openPrice": 4.55,
+                "highPrice": 4.55,
+                "lowPrice": 3.1,
+                "closePrice": 3.1,
+                "prevClose": 4.6,
+                "lastPrice": 3.1,
+                "change": -1.4999999999999996,
+                "pChange": -32.60869565217391,
+                "numberOfContractsTraded": 12,
+                "totalTurnover": 0.33
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 21750,
+                "totalSellQuantity": 4500,
+                "bid": [
+                    {
+                        "price": 3.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 2.2,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 2.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 2.05,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 4.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 4.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 8.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 10,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 3.05,
+                        "bestSell": 4.5,
+                        "lastPrice": 3.1
+                    },
+                    "carry": {
+                        "bestBuy": -20877.960691842625,
+                        "bestSell": -19458.344999369747,
+                        "lastPrice": -20818.609790660626
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 12,
+                    "value": 0.33,
+                    "vmap": 3.66,
+                    "premiumTurnover": 76.8294,
+                    "openInterest": 535,
+                    "changeinOpenInterest": -12,
+                    "pchangeinOpenInterest": -2.1937842778793417,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 43.91,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 840,
+                "identifier": "OPTSTKPEL25-01-2024PE840.00",
+                "openPrice": 1.75,
+                "highPrice": 1.75,
+                "lowPrice": 1.75,
+                "closePrice": 1.75,
+                "prevClose": 1.75,
+                "lastPrice": 1.75,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 10,
+                "totalTurnover": 0.13
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 11250,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 0.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 7500
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.4,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0.15,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 3,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 3.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.8,
+                        "bestSell": 3,
+                        "lastPrice": 1.75
+                    },
+                    "carry": {
+                        "bestBuy": -25762.701459900014,
+                        "bestSell": -20938.292643964545,
+                        "lastPrice": -22905.629871638856
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 10,
+                    "value": 0.13,
+                    "vmap": 1.75,
+                    "premiumTurnover": 63.13125,
+                    "openInterest": 93,
+                    "changeinOpenInterest": -10,
+                    "pchangeinOpenInterest": -9.70873786407767,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 41.81,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 900,
+                "identifier": "OPTSTKPEL25-01-2024PE900.00",
+                "openPrice": 9,
+                "highPrice": 9.1,
+                "lowPrice": 7.55,
+                "closePrice": 8.05,
+                "prevClose": 9.3,
+                "lastPrice": 8.05,
+                "change": -1.25,
+                "pChange": -13.440860215053762,
+                "numberOfContractsTraded": 10,
+                "totalTurnover": 0.65
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 45000,
+                "totalSellQuantity": 7500,
+                "bid": [
+                    {
+                        "price": 8.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 8,
+                        "quantity": 4500
+                    },
+                    {
+                        "price": 7.55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 6,
+                        "quantity": 1500
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 15.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 15.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 17.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 18,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 8.05,
+                        "bestSell": 15.45,
+                        "lastPrice": 8.05
+                    },
+                    "carry": {
+                        "bestBuy": -17335.524363881923,
+                        "bestSell": -14955.95463539844,
+                        "lastPrice": -86.28931987994984
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 10,
+                    "value": 0.65,
+                    "vmap": 8.63,
+                    "premiumTurnover": 68.14725,
+                    "openInterest": 493,
+                    "changeinOpenInterest": -10,
+                    "pchangeinOpenInterest": -1.9880715705765408,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 33.59,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 950,
+                "identifier": "OPTSTKPEL25-01-2024CE950.00",
+                "openPrice": 20,
+                "highPrice": 21,
+                "lowPrice": 10,
+                "closePrice": 10,
+                "prevClose": 21.15,
+                "lastPrice": 10,
+                "change": -11.149999999999999,
+                "pChange": -52.71867612293144,
+                "numberOfContractsTraded": 10,
+                "totalTurnover": 1.34
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 9000,
+                "totalSellQuantity": 25500,
+                "bid": [
+                    {
+                        "price": 10,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 6.8,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 18,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 21,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 27.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 28,
+                        "quantity": 11250
+                    },
+                    {
+                        "price": 29.5,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 10,
+                        "bestSell": 18,
+                        "lastPrice": 10
+                    },
+                    "carry": {
+                        "bestBuy": -16543.791908174877,
+                        "bestSell": -14398.370581282144,
+                        "lastPrice": -16543.791908174877
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 10,
+                    "value": 1.34,
+                    "vmap": 17.8,
+                    "premiumTurnover": 72.585,
+                    "openInterest": 425,
+                    "changeinOpenInterest": -10,
+                    "pchangeinOpenInterest": -2.2988505747126435,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 27.99,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1020,
+                "identifier": "OPTSTKPEL25-01-2024CE1020.00",
+                "openPrice": 3.55,
+                "highPrice": 4.15,
+                "lowPrice": 3.05,
+                "closePrice": 3.8,
+                "prevClose": 4.05,
+                "lastPrice": 4,
+                "change": -0.04999999999999982,
+                "pChange": -1.2345679012345634,
+                "numberOfContractsTraded": 9,
+                "totalTurnover": 0.25
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 21000,
+                "totalSellQuantity": 8250,
+                "bid": [
+                    {
+                        "price": 3.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.05,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 2.8,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 2.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 1.5,
+                        "quantity": 3000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 4.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 4.15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.2,
+                        "quantity": 2250
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 3.6,
+                        "bestSell": 4.1,
+                        "lastPrice": 4
+                    },
+                    "carry": {
+                        "bestBuy": -20272.818961666613,
+                        "bestSell": -19798.12504356069,
+                        "lastPrice": -19888.253079515547
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 9,
+                    "value": 0.25,
+                    "vmap": 3.66,
+                    "premiumTurnover": 69.09705,
+                    "openInterest": 185,
+                    "changeinOpenInterest": -9,
+                    "pchangeinOpenInterest": -4.639175257731959,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 44.91,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1150,
+                "identifier": "OPTSTKPEL25-01-2024CE1150.00",
+                "openPrice": 0.2,
+                "highPrice": 0.2,
+                "lowPrice": 0.2,
+                "closePrice": 0.2,
+                "prevClose": 0.2,
+                "lastPrice": 0.2,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 7,
+                "totalTurnover": 0.01
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 750,
+                "totalSellQuantity": 6000,
+                "bid": [
+                    {
+                        "price": 0.2,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.75,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 3.05,
+                        "quantity": 1500
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.2,
+                        "bestSell": 0.7,
+                        "lastPrice": 0.2
+                    },
+                    "carry": {
+                        "bestBuy": 154.1904746272517,
+                        "bestSell": 0,
+                        "lastPrice": -153.42297599794728
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 7,
+                    "value": 0.01,
+                    "vmap": 0.2,
+                    "premiumTurnover": 60.3855,
+                    "openInterest": 109,
+                    "changeinOpenInterest": -7,
+                    "pchangeinOpenInterest": -6.0344827586206895,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 51.51,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 980,
+                "identifier": "OPTSTKPEL25-01-2024CE980.00",
+                "openPrice": 8.3,
+                "highPrice": 15,
+                "lowPrice": 8,
+                "closePrice": 8,
+                "prevClose": 11.5,
+                "lastPrice": 8,
+                "change": -3.5,
+                "pChange": -30.434782608695656,
+                "numberOfContractsTraded": 6,
+                "totalTurnover": 0.45
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 10500,
+                "totalSellQuantity": 27750,
+                "bid": [
+                    {
+                        "price": 8,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 5.8,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 5.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 4,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 15,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 19.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 19.7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 19.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 8,
+                        "bestSell": 15,
+                        "lastPrice": 8
+                    },
+                    "carry": {
+                        "bestBuy": -17358.265870471743,
+                        "bestSell": -0.20631700699710165,
+                        "lastPrice": -17358.265870471743
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 6,
+                    "value": 0.45,
+                    "vmap": 9.91,
+                    "premiumTurnover": 44.54595,
+                    "openInterest": 134,
+                    "changeinOpenInterest": -6,
+                    "pchangeinOpenInterest": -4.285714285714286,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 39.43,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 960,
+                "identifier": "OPTSTKPEL25-01-2024PE960.00",
+                "openPrice": 47,
+                "highPrice": 47,
+                "lowPrice": 47,
+                "closePrice": 47,
+                "prevClose": 44.65,
+                "lastPrice": 47,
+                "change": 2.3500000000000014,
+                "pChange": 5.263157894736845,
+                "numberOfContractsTraded": 5,
+                "totalTurnover": 1.76
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 20.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 20.05,
+                        "bestSell": 0,
+                        "lastPrice": 47
+                    },
+                    "carry": {
+                        "bestBuy": -14004.691086406236,
+                        "bestSell": 0,
+                        "lastPrice": -10895.188751361433
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 5,
+                    "value": 1.76,
+                    "vmap": 47,
+                    "premiumTurnover": 37.7625,
+                    "openInterest": 65,
+                    "changeinOpenInterest": -5,
+                    "pchangeinOpenInterest": -7.142857142857143,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 50.41,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Futures",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "-",
+                "strikePrice": 0,
+                "identifier": "FUTSTKPEL29-02-2024XX0.00",
+                "openPrice": 948,
+                "highPrice": 949.4,
+                "lowPrice": 944.65,
+                "closePrice": 944.65,
+                "prevClose": 946,
+                "lastPrice": 944.65,
+                "change": -1.3500000000000227,
+                "pChange": -0.1427061310782265,
+                "numberOfContractsTraded": 4,
+                "totalTurnover": 28.43
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 0,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 13500,
+                "totalSellQuantity": 11250,
+                "bid": [
+                    {
+                        "price": 930.55,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 927.15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 926.3,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 923.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 923.6,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 944.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 951.25,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 954.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 958,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 960,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 930.55,
+                        "bestSell": 944.45,
+                        "lastPrice": 944.65
+                    },
+                    "carry": {
+                        "bestBuy": -3.186151522836402e-05,
+                        "bestSell": 12.549451264650811,
+                        "lastPrice": 12.721196776088364
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 4,
+                    "value": 28.43,
+                    "vmap": 947.51,
+                    "premiumTurnover": 28.4253,
+                    "openInterest": 889,
+                    "changeinOpenInterest": -4,
+                    "pchangeinOpenInterest": -0.4479283314669653,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 940.55,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 960,
+                "identifier": "OPTSTKPEL25-01-2024CE960.00",
+                "openPrice": 15.9,
+                "highPrice": 15.9,
+                "lowPrice": 13.55,
+                "closePrice": 13.55,
+                "prevClose": 23.2,
+                "lastPrice": 13.55,
+                "change": -9.649999999999999,
+                "pChange": -41.59482758620689,
+                "numberOfContractsTraded": 4,
+                "totalTurnover": 0.42
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 18000,
+                "totalSellQuantity": 22500,
+                "bid": [
+                    {
+                        "price": 13.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 13.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 11,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 10.5,
+                        "quantity": 4500
+                    },
+                    {
+                        "price": 10,
+                        "quantity": 4500
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 25.7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 26,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 26.85,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 26.9,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 13.1,
+                        "bestSell": 20,
+                        "lastPrice": 13.55
+                    },
+                    "carry": {
+                        "bestBuy": 77.82987922634922,
+                        "bestSell": 10779.849768562368,
+                        "lastPrice": -15434.916599864306
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 4,
+                    "value": 0.42,
+                    "vmap": 14.15,
+                    "premiumTurnover": 29.2245,
+                    "openInterest": 292,
+                    "changeinOpenInterest": -4,
+                    "pchangeinOpenInterest": -1.3513513513513513,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 39.96,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 900,
+                "identifier": "OPTSTKPEL25-01-2024CE900.00",
+                "openPrice": 40,
+                "highPrice": 43,
+                "lowPrice": 40,
+                "closePrice": 41,
+                "prevClose": 25.5,
+                "lastPrice": 41,
+                "change": 15.5,
+                "pChange": 60.78431372549019,
+                "numberOfContractsTraded": 3,
+                "totalTurnover": 0.93
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 26250,
+                "bid": [
+                    {
+                        "price": 10,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 49.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 50,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 56,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 57,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 59.15,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 10,
+                        "bestSell": 49.95,
+                        "lastPrice": 41
+                    },
+                    "carry": {
+                        "bestBuy": -16543.791908174877,
+                        "bestSell": -10672.995354007991,
+                        "lastPrice": -11393.689454132422
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 3,
+                    "value": 0.93,
+                    "vmap": 41.33,
+                    "premiumTurnover": 21.179925,
+                    "openInterest": 185,
+                    "changeinOpenInterest": -3,
+                    "pchangeinOpenInterest": -1.5957446808510638,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 34.68,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 1050,
+                "identifier": "OPTSTKPEL25-01-2024PE1050.00",
+                "openPrice": 117.65,
+                "highPrice": 117.65,
+                "lowPrice": 109.65,
+                "closePrice": 109.65,
+                "prevClose": 102.95,
+                "lastPrice": 109.65,
+                "change": 6.700000000000003,
+                "pChange": 6.5080135988343875,
+                "numberOfContractsTraded": 3,
+                "totalTurnover": 2.59
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 109.65
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -7803.1063143499205
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 3,
+                    "value": 2.59,
+                    "vmap": 114.98,
+                    "premiumTurnover": 26.21205,
+                    "openInterest": 50,
+                    "changeinOpenInterest": -3,
+                    "pchangeinOpenInterest": -5.660377358490566,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 920,
+                "identifier": "OPTSTKPEL25-01-2024PE920.00",
+                "openPrice": 19.05,
+                "highPrice": 19.05,
+                "lowPrice": 15.4,
+                "closePrice": 15.4,
+                "prevClose": 15.25,
+                "lastPrice": 15.4,
+                "change": 0.15000000000000036,
+                "pChange": 0.9836065573770515,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.26
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 10500,
+                "totalSellQuantity": 3750,
+                "bid": [
+                    {
+                        "price": 11,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 10,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 8.55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3,
+                        "quantity": 1500
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 21,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 30,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 30.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 31,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 33,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 11,
+                        "bestSell": 21,
+                        "lastPrice": 15.4
+                    },
+                    "carry": {
+                        "bestBuy": -16195.909751889092,
+                        "bestSell": -13835.720599912653,
+                        "lastPrice": -14967.786088221665
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.26,
+                    "vmap": 17.22,
+                    "premiumTurnover": 14.0583,
+                    "openInterest": 94,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -2.0833333333333335,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 34.51,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 980,
+                "identifier": "OPTSTKPEL25-01-2024PE980.00",
+                "openPrice": 56.6,
+                "highPrice": 56.6,
+                "lowPrice": 56.55,
+                "closePrice": 56.55,
+                "prevClose": 61.1,
+                "lastPrice": 56.55,
+                "change": -4.550000000000004,
+                "pChange": -7.446808510638305,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.85
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 56.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 56.45,
+                        "lastPrice": 56.55
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -10226.480686928946,
+                        "lastPrice": -10220.020508251373
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.85,
+                    "vmap": 56.57,
+                    "premiumTurnover": 15.54855,
+                    "openInterest": 26,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -7.142857142857143,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 41.89,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 1000,
+                "identifier": "OPTSTKPEL25-01-2024PE1000.00",
+                "openPrice": 75,
+                "highPrice": 75,
+                "lowPrice": 68,
+                "closePrice": 68,
+                "prevClose": 75,
+                "lastPrice": 68,
+                "change": -7,
+                "pChange": -9.333333333333334,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 1.07
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 7500,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 66,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 65.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 61.4,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 61,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 66,
+                        "bestSell": 0,
+                        "lastPrice": 68
+                    },
+                    "carry": {
+                        "bestBuy": -48.063652011979556,
+                        "bestSell": 0,
+                        "lastPrice": -9547.024373710357
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 1.07,
+                    "vmap": 71.5,
+                    "premiumTurnover": 16.0725,
+                    "openInterest": 289,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -0.6872852233676976,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 24.58,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 930,
+                "identifier": "OPTSTKPEL25-01-2024PE930.00",
+                "openPrice": 22,
+                "highPrice": 25,
+                "lowPrice": 22,
+                "closePrice": 25,
+                "prevClose": 22.3,
+                "lastPrice": 25,
+                "change": 2.6999999999999993,
+                "pChange": 12.107623318385647,
+                "numberOfContractsTraded": 2,
+                "totalTurnover": 0.35
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 4500,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 18.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 18,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 17.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 17,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 18.5,
+                        "bestSell": 0,
+                        "lastPrice": 25
+                    },
+                    "carry": {
+                        "bestBuy": -14298.364325495528,
+                        "bestSell": 0,
+                        "lastPrice": -13199.330736834212
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 2,
+                    "value": 0.35,
+                    "vmap": 23.5,
+                    "premiumTurnover": 14.3025,
+                    "openInterest": 81,
+                    "changeinOpenInterest": -2,
+                    "pchangeinOpenInterest": -2.4096385542168677,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 42.78,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 860,
+                "identifier": "OPTSTKPEL25-01-2024PE860.00",
+                "openPrice": 4,
+                "highPrice": 4,
+                "lowPrice": 4,
+                "closePrice": 4,
+                "prevClose": 4.5,
+                "lastPrice": 4,
+                "change": -0.5,
+                "pChange": -11.11111111111111,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.03
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 2.5,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 11,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 2.5,
+                        "bestSell": 11,
+                        "lastPrice": 4
+                    },
+                    "carry": {
+                        "bestBuy": -21603.76632626248,
+                        "bestSell": -16195.909751889092,
+                        "lastPrice": -19888.253079515547
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.03,
+                    "vmap": 4,
+                    "premiumTurnover": 6.48,
+                    "openInterest": 44,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -2.2222222222222223,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 42.84,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 800,
+                "identifier": "OPTSTKPEL25-01-2024PE800.00",
+                "openPrice": 1,
+                "highPrice": 1,
+                "lowPrice": 1,
+                "closePrice": 1,
+                "prevClose": 1,
+                "lastPrice": 1,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.01
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 2250,
+                "totalSellQuantity": 1500,
+                "bid": [
+                    {
+                        "price": 0.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.65,
+                        "bestSell": 0.8,
+                        "lastPrice": 1
+                    },
+                    "carry": {
+                        "bestBuy": -26520.5851413406,
+                        "bestSell": -25762.701459900014,
+                        "lastPrice": -24948.227497603148
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.01,
+                    "vmap": 1,
+                    "premiumTurnover": 6.0075,
+                    "openInterest": 212,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -0.4694835680751174,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 51.02,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 940,
+                "identifier": "OPTSTKPEL25-01-2024CE940.00",
+                "openPrice": 26,
+                "highPrice": 26,
+                "lowPrice": 26,
+                "closePrice": 26,
+                "prevClose": 26.7,
+                "lastPrice": 26,
+                "change": -0.6999999999999993,
+                "pChange": -2.621722846441945,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.2
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 26250,
+                "bid": [
+                    {
+                        "price": 1.55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 26,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 33,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 33.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 35,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 37.5,
+                        "quantity": 3000
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.55,
+                        "bestSell": 26,
+                        "lastPrice": 26
+                    },
+                    "carry": {
+                        "bestBuy": -23348.59699970443,
+                        "bestSell": -13056.175133824738,
+                        "lastPrice": -13056.175133824738
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.2,
+                    "vmap": 26,
+                    "premiumTurnover": 7.245,
+                    "openInterest": 237,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -0.42016806722689076,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 48,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 930,
+                "identifier": "OPTSTKPEL25-01-2024CE930.00",
+                "openPrice": 22,
+                "highPrice": 22,
+                "lowPrice": 22,
+                "closePrice": 22,
+                "prevClose": 21,
+                "lastPrice": 22,
+                "change": 1,
+                "pChange": 4.761904761904762,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.17
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 750,
+                "totalSellQuantity": 4500,
+                "bid": [
+                    {
+                        "price": 2,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 46.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 47,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 48,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 51,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 55,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 2,
+                        "bestSell": 46.95,
+                        "lastPrice": 22
+                    },
+                    "carry": {
+                        "bestBuy": -22418.240288559347,
+                        "bestSell": -10899.073796965053,
+                        "lastPrice": -13665.922542845294
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.17,
+                    "vmap": 22,
+                    "premiumTurnover": 7.14,
+                    "openInterest": 111,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -0.8928571428571429,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 33.81,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 870,
+                "identifier": "OPTSTKPEL25-01-2024PE870.00",
+                "openPrice": 5,
+                "highPrice": 5,
+                "lowPrice": 5,
+                "closePrice": 5,
+                "prevClose": 4.35,
+                "lastPrice": 5,
+                "change": 0.6500000000000004,
+                "pChange": 14.942528735632193,
+                "numberOfContractsTraded": 1,
+                "totalTurnover": 0.04
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 8250,
+                "totalSellQuantity": 2250,
+                "bid": [
+                    {
+                        "price": 1.45,
+                        "quantity": 4500
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0.7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 10.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 11,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 1.45,
+                        "bestSell": 10.95,
+                        "lastPrice": 5
+                    },
+                    "carry": {
+                        "bestBuy": 16851.443226160416,
+                        "bestSell": -16212.538482244985,
+                        "lastPrice": -19073.77911721868
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 1,
+                    "value": 0.04,
+                    "vmap": 5,
+                    "premiumTurnover": 6.5625,
+                    "openInterest": 51,
+                    "changeinOpenInterest": -1,
+                    "pchangeinOpenInterest": -1.9230769230769231,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 41.38,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Futures",
+                "expiryDate": "28-Mar-2024",
+                "optionType": "-",
+                "strikePrice": 0,
+                "identifier": "FUTSTKPEL28-03-2024XX0.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 936.55,
+                "prevClose": 936.55,
+                "lastPrice": 936.55,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 0,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 5250,
+                "totalSellQuantity": 3750,
+                "bid": [
+                    {
+                        "price": 932.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 922.85,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 922.35,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 919.25,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 904.7,
+                        "quantity": 1500
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 957.15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 966.75,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 983.2,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 1010,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 932.6,
+                        "bestSell": 957.15,
+                        "lastPrice": 936.55
+                    },
+                    "carry": {
+                        "bestBuy": 1.4227815565423307,
+                        "bestSell": 14.414648860664796,
+                        "lastPrice": 3.536044740382718
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 37,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 945.45,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 920,
+                "identifier": "OPTSTKPEL25-01-2024CE920.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 29.65,
+                "prevClose": 29.65,
+                "lastPrice": 29.65,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 10500,
+                "bid": [
+                    {
+                        "price": 5.05,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 29.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 49.5,
+                        "quantity": 3750
+                    },
+                    {
+                        "price": 50,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 59,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 5.05,
+                        "bestSell": 29.65,
+                        "lastPrice": 29.65
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -12576.690739733516,
+                        "lastPrice": -12576.690739733516
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 131,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 940,
+                "identifier": "OPTSTKPEL25-01-2024PE940.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 33.85,
+                "prevClose": 33.85,
+                "lastPrice": 33.85,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 25.1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 25.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 25,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 22,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 61.9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 25.1,
+                        "bestSell": 61.9,
+                        "lastPrice": 33.85
+                    },
+                    "carry": {
+                        "bestBuy": -13184.759859200401,
+                        "bestSell": -9890.078841732637,
+                        "lastPrice": -12093.150149945408
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 123,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1030,
+                "identifier": "OPTSTKPEL25-01-2024CE1030.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 3.15,
+                "prevClose": 3.15,
+                "lastPrice": 3.15,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0.2,
+                        "quantity": 3000
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.2,
+                        "bestSell": 0,
+                        "lastPrice": 3.15
+                    },
+                    "carry": {
+                        "bestBuy": -30822.675877987615,
+                        "bestSell": 0,
+                        "lastPrice": -20760.20854474612
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 25,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1010,
+                "identifier": "OPTSTKPEL25-01-2024CE1010.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 8.7,
+                "prevClose": 8.7,
+                "lastPrice": 8.7,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 2250,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 8.4,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 8.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 15.45,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 8.4,
+                        "lastPrice": 8.7
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -17180.181771253316,
+                        "lastPrice": -17052.098453942184
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 42,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1170,
+                "identifier": "OPTSTKPEL25-01-2024CE1170.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 0.7,
+                "prevClose": 0.7,
+                "lastPrice": 0.7,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 7500,
+                "bid": [
+                    {
+                        "price": 0.05,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0.7,
+                        "quantity": 6750
+                    },
+                    {
+                        "price": 1.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.05,
+                        "bestSell": 0.7,
+                        "lastPrice": 0.7
+                    },
+                    "carry": {
+                        "bestBuy": -35882.65029607522,
+                        "bestSell": -26250.09104297952,
+                        "lastPrice": -26250.09104297952
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 256,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 1000,
+                "identifier": "OPTSTKPEL29-02-2024PE1000.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 79.95,
+                "prevClose": 79.95,
+                "lastPrice": 79.95,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 51,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 51,
+                        "bestSell": 0,
+                        "lastPrice": 79.95
+                    },
+                    "carry": {
+                        "bestBuy": -2354.903097368746,
+                        "bestSell": 0,
+                        "lastPrice": -1990.2471653847288
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 2,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 880,
+                "identifier": "OPTSTKPEL25-01-2024PE880.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 6.05,
+                "prevClose": 6.05,
+                "lastPrice": 6.05,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 7500,
+                "totalSellQuantity": 1500,
+                "bid": [
+                    {
+                        "price": 4.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 4,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.7,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 2.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 2,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 14.5,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 4.05,
+                        "bestSell": 14.5,
+                        "lastPrice": 6.05
+                    },
+                    "carry": {
+                        "bestBuy": -19842.910881520813,
+                        "bestSell": -15187.584927196316,
+                        "lastPrice": -18378.014804647108
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 124,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 880,
+                "identifier": "OPTSTKPEL29-02-2024PE880.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 20.05,
+                "prevClose": 20.05,
+                "lastPrice": 20.05,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 750,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 15,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 15,
+                        "bestSell": 0,
+                        "lastPrice": 20.05
+                    },
+                    "carry": {
+                        "bestBuy": -3347.5209474622407,
+                        "bestSell": 0,
+                        "lastPrice": -3112.153574756941
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 4,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 900,
+                "identifier": "OPTSTKPEL29-02-2024PE900.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 29.35,
+                "prevClose": 29.35,
+                "lastPrice": 30,
+                "change": 0.6499999999999986,
+                "pChange": 2.214650766609876,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 750,
+                "totalSellQuantity": 3000,
+                "bid": [
+                    {
+                        "price": 10,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 38,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 39,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 54,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 10,
+                        "bestSell": 38,
+                        "lastPrice": 30
+                    },
+                    "carry": {
+                        "bestBuy": -3676.39820181664,
+                        "bestSell": -2593.564003244853,
+                        "lastPrice": -2785.3015676747286
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 50,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Call",
+                "strikePrice": 1000,
+                "identifier": "OPTSTKPEL29-02-2024CE1000.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 26.3,
+                "prevClose": 26.3,
+                "lastPrice": 26.3,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 33.8,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 33.8,
+                        "lastPrice": 26.3
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -2688.5656818929765,
+                        "lastPrice": -2892.0668599072383
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 4,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 950,
+                "identifier": "OPTSTKPEL25-01-2024PE950.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 40,
+                "prevClose": 40,
+                "lastPrice": 40,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 6750,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 27,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 23.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 23,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 22.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 21.1,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 27,
+                        "bestSell": 0,
+                        "lastPrice": 40
+                    },
+                    "carry": {
+                        "bestBuy": -12918.422936687346,
+                        "bestSell": 0,
+                        "lastPrice": -11483.81749008728
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 167,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 1040,
+                "identifier": "OPTSTKPEL25-01-2024CE1040.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 1.9,
+                "prevClose": 1.9,
+                "lastPrice": 1.9,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 2250,
+                "bid": [
+                    {
+                        "price": 0.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 7.55,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.6,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.65,
+                        "bestSell": 7.55,
+                        "lastPrice": 1.9
+                    },
+                    "carry": {
+                        "bestBuy": -26520.5851413406,
+                        "bestSell": -17569.578891700738,
+                        "lastPrice": -22605.460813073903
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 45,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 830,
+                "identifier": "OPTSTKPEL25-01-2024PE830.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 3.9,
+                "prevClose": 3.9,
+                "lastPrice": 3.9,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 2250,
+                "bid": [
+                    {
+                        "price": 2,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 1,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 4,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 4.7,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 2,
+                        "bestSell": 4,
+                        "lastPrice": 3.9
+                    },
+                    "carry": {
+                        "bestBuy": -22418.240288559347,
+                        "bestSell": -19888.253079515547,
+                        "lastPrice": -19980.663078658203
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 80,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 970,
+                "identifier": "OPTSTKPEL25-01-2024PE970.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 48.65,
+                "prevClose": 48.65,
+                "lastPrice": 48.8,
+                "change": 0.14999999999999858,
+                "pChange": 0.3083247687564205,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 35,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 22,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 35,
+                        "bestSell": 0,
+                        "lastPrice": 48.8
+                    },
+                    "carry": {
+                        "bestBuy": 39904.02357722262,
+                        "bestSell": 0,
+                        "lastPrice": -2623.9053306505916
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 14,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 1100,
+                "identifier": "OPTSTKPEL25-01-2024PE1100.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 155,
+                "prevClose": 155,
+                "lastPrice": 155,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 155
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -357.3620667129998
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 74,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 990,
+                "identifier": "OPTSTKPEL25-01-2024CE990.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 7,
+                "prevClose": 7,
+                "lastPrice": 7,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 3000,
+                "totalSellQuantity": 6000,
+                "bid": [
+                    {
+                        "price": 9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.55,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 6.4,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 16.2,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 16.65,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 23,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 9,
+                        "bestSell": 16.2,
+                        "lastPrice": 7
+                    },
+                    "carry": {
+                        "bestBuy": -16928.357790325947,
+                        "bestSell": -14782.93646343321,
+                        "lastPrice": 89.27291372461858
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 67,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 1020,
+                "identifier": "OPTSTKPEL25-01-2024PE1020.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 90.95,
+                "prevClose": 90.95,
+                "lastPrice": 90.95,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 0,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": 90.95
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": 0,
+                        "lastPrice": -8485.596344484065
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 10,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "29-Feb-2024",
+                "optionType": "Put",
+                "strikePrice": 850,
+                "identifier": "OPTSTKPEL29-02-2024PE850.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 15,
+                "prevClose": 15,
+                "lastPrice": 15,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 1500,
+                "totalSellQuantity": 4500,
+                "bid": [
+                    {
+                        "price": 7.5,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 19.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 23.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 24,
+                        "quantity": 1500
+                    },
+                    {
+                        "price": 26.5,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 7.5,
+                        "bestSell": 19.95,
+                        "lastPrice": 15
+                    },
+                    "carry": {
+                        "bestBuy": -3909.740327249751,
+                        "bestSell": -3116.209138761603,
+                        "lastPrice": -3347.5209474622407
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 29,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 710,
+                "identifier": "OPTSTKPEL25-01-2024PE710.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 3.2,
+                "prevClose": 3.2,
+                "lastPrice": 3.2,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 2,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 2,
+                        "lastPrice": 3.2
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -22418.240288559347,
+                        "lastPrice": -20702.727041812414
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 1,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 890,
+                "identifier": "OPTSTKPEL25-01-2024PE890.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 9,
+                "prevClose": 9,
+                "lastPrice": 9,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 750,
+                "totalSellQuantity": 750,
+                "bid": [
+                    {
+                        "price": 0.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 19.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0.95,
+                        "bestSell": 19.95,
+                        "lastPrice": 9
+                    },
+                    "carry": {
+                        "bestBuy": -25135.448022117704,
+                        "bestSell": -14022.941124427212,
+                        "lastPrice": -16928.357790325947
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 23,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Put",
+                "strikePrice": 910,
+                "identifier": "OPTSTKPEL25-01-2024PE910.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 5.75,
+                "prevClose": 5.75,
+                "lastPrice": 5.75,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 19500,
+                "totalSellQuantity": 2250,
+                "bid": [
+                    {
+                        "price": 6.05,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 5.75,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 3.6,
+                        "quantity": 750
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 19.85,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 19.9,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 37.7,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 6.05,
+                        "bestSell": 19.85,
+                        "lastPrice": 5.75
+                    },
+                    "carry": {
+                        "bestBuy": -18378.014804647108,
+                        "bestSell": -14041.28287156697,
+                        "lastPrice": -18563.648027549352
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 68,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 910,
+                "identifier": "OPTSTKPEL25-01-2024CE910.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 52,
+                "prevClose": 52,
+                "lastPrice": 50,
+                "change": -2,
+                "pChange": -3.8461538461538463,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 0,
+                "totalSellQuantity": 1500,
+                "bid": [
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 75,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 82.35,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    },
+                    {
+                        "price": 0,
+                        "quantity": 0
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 0,
+                        "bestSell": 75,
+                        "lastPrice": 50
+                    },
+                    "carry": {
+                        "bestBuy": 0,
+                        "bestSell": -9189.395883195613,
+                        "lastPrice": -10669.343527790414
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 45,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        },
+        {
+            "metadata": {
+                "instrumentType": "Stock Options",
+                "expiryDate": "25-Jan-2024",
+                "optionType": "Call",
+                "strikePrice": 970,
+                "identifier": "OPTSTKPEL25-01-2024CE970.00",
+                "openPrice": 0,
+                "highPrice": 0,
+                "lowPrice": 0,
+                "closePrice": 15.95,
+                "prevClose": 15.95,
+                "lastPrice": 15.95,
+                "change": 0,
+                "pChange": 0,
+                "numberOfContractsTraded": 0,
+                "totalTurnover": 0
+            },
+            "underlyingValue": 929.95,
+            "volumeFreezeQuantity": 22501,
+            "marketDeptOrderBook": {
+                "totalBuyQuantity": 34500,
+                "totalSellQuantity": 10500,
+                "bid": [
+                    {
+                        "price": 7.2,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 7.15,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 1.3,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 0.5,
+                        "quantity": 30000
+                    }
+                ],
+                "ask": [
+                    {
+                        "price": 20.6,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20.65,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 20.7,
+                        "quantity": 2250
+                    },
+                    {
+                        "price": 21.95,
+                        "quantity": 750
+                    },
+                    {
+                        "price": 22,
+                        "quantity": 750
+                    }
+                ],
+                "carryOfCost": {
+                    "price": {
+                        "bestBuy": 7.2,
+                        "bestSell": 20.6,
+                        "lastPrice": 15.95
+                    },
+                    "carry": {
+                        "bestBuy": -17742.83175262281,
+                        "bestSell": -13905.915070949442,
+                        "lastPrice": -14839.70277091053
+                    }
+                },
+                "tradeInfo": {
+                    "tradedVolume": 0,
+                    "value": 0,
+                    "vmap": 0,
+                    "premiumTurnover": 0,
+                    "openInterest": 116,
+                    "changeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0,
+                    "marketLot": 750
+                },
+                "otherInfo": {
+                    "settlementPrice": 0,
+                    "dailyvolatility": 2.34,
+                    "annualisedVolatility": 44.79,
+                    "impliedVolatility": 0,
+                    "clientWisePositionLimits": 0,
+                    "marketWidePositionLimits": 23951791
+                }
+            }
+        }
+    ],
+    "strikePrices": [
+        0,
+        0,
+        0,
+        710,
+        800,
+        830,
+        840,
+        850,
+        850,
+        860,
+        870,
+        880,
+        880,
+        890,
+        900,
+        900,
+        900,
+        910,
+        910,
+        920,
+        920,
+        930,
+        930,
+        940,
+        940,
+        950,
+        950,
+        960,
+        960,
+        970,
+        970,
+        980,
+        980,
+        990,
+        1000,
+        1000,
+        1000,
+        1000,
+        1010,
+        1020,
+        1020,
+        1030,
+        1040,
+        1050,
+        1050,
+        1080,
+        1100,
+        1100,
+        1150,
+        1170
+    ],
+    "expiryDates": [
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "25-Jan-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "29-Feb-2024",
+        "28-Mar-2024"
+    ],
+    "allSymbol": [
+        "DELTACORP",
+        "TATACONSUM",
+        "IRCTC",
+        "SHRIRAMFIN",
+        "EICHERMOT",
+        "PNB",
+        "TATACHEM",
+        "HINDUNILVR",
+        "LAURUSLABS",
+        "AUROPHARMA",
+        "MANAPPURAM",
+        "PFC",
+        "TATAMOTORS",
+        "UPL",
+        "CUB",
+        "INDUSINDBK",
+        "ATUL",
+        "ABBOTINDIA",
+        "CONCOR",
+        "SUNTV",
+        "LUPIN",
+        "SUNPHARMA",
+        "NTPC",
+        "DABUR",
+        "INDUSTOWER",
+        "ABCAPITAL",
+        "LTTS",
+        "ASHOKLEY",
+        "BPCL",
+        "TATAPOWER",
+        "ICICIPRULI",
+        "JINDALSTEL",
+        "POWERGRID",
+        "EXIDEIND",
+        "INDIGO",
+        "NAVINFLUOR",
+        "TITAN",
+        "CROMPTON",
+        "BAJAJ-AUTO",
+        "PAGEIND",
+        "CANBK",
+        "BAJFINANCE",
+        "IDFC",
+        "METROPOLIS",
+        "ZEEL",
+        "HINDALCO",
+        "INDIACEM",
+        "L&TFH",
+        "RELIANCE",
+        "ICICIBANK",
+        "MRF",
+        "ABB",
+        "DRREDDY",
+        "POLYCAB",
+        "NATIONALUM",
+        "HINDPETRO",
+        "TRENT",
+        "SYNGENE",
+        "CIPLA",
+        "GRANULES",
+        "DEEPAKNTR",
+        "DIVISLAB",
+        "GUJGASLTD",
+        "OFSS",
+        "COALINDIA",
+        "COFORGE",
+        "NAUKRI",
+        "IDFCFIRSTB",
+        "NMDC",
+        "GAIL",
+        "UBL",
+        "VEDL",
+        "ACC",
+        "OBEROIRLTY",
+        "GODREJCP",
+        "AARTIIND",
+        "BEL",
+        "MARICO",
+        "PIDILITIND",
+        "HEROMOTOCO",
+        "BERGEPAINT",
+        "IPCALAB",
+        "BHEL",
+        "DIXON",
+        "HAL",
+        "BALKRISIND",
+        "LALPATHLAB",
+        "ITC",
+        "TORNTPHARM",
+        "GODREJPROP",
+        "BHARTIARTL",
+        "TATASTEEL",
+        "MCX",
+        "PVRINOX",
+        "SBICARD",
+        "BRITANNIA",
+        "LT",
+        "GRASIM",
+        "ABFRL",
+        "JKCEMENT",
+        "LTIM",
+        "HINDCOPPER",
+        "SBIN",
+        "SHREECEM",
+        "MARUTI",
+        "BALRAMCHIN",
+        "RECLTD",
+        "MFSL",
+        "WIPRO",
+        "NESTLEIND",
+        "ADANIPORTS",
+        "INFY",
+        "ALKEM",
+        "MOTHERSON",
+        "BAJAJFINSV",
+        "BSOFT",
+        "ICICIGI",
+        "SIEMENS",
+        "CUMMINSIND",
+        "HCLTECH",
+        "PIIND",
+        "MCDOWELL-N",
+        "BIOCON",
+        "INDHOTEL",
+        "TECHM",
+        "MPHASIS",
+        "SBILIFE",
+        "CANFINHOME",
+        "IEX",
+        "DLF",
+        "TATACOMM",
+        "GNFC",
+        "TCS",
+        "AMBUJACEM",
+        "SRF",
+        "AUBANK",
+        "CHOLAFIN",
+        "APOLLOTYRE",
+        "COLPAL",
+        "HDFCBANK",
+        "JUBLFOOD",
+        "BANKBARODA",
+        "GMRINFRA",
+        "AXISBANK",
+        "RAMCOCEM",
+        "VOLTAS",
+        "CHAMBLFERT",
+        "MUTHOOTFIN",
+        "IDEA",
+        "JSWSTEEL",
+        "M&MFIN",
+        "SAIL",
+        "ASIANPAINT",
+        "BATAINDIA",
+        "TVSMOTOR",
+        "ULTRACEMCO",
+        "IOC",
+        "ADANIENT",
+        "ONGC",
+        "BOSCHLTD",
+        "GLENMARK",
+        "PERSISTENT",
+        "HAVELLS",
+        "KOTAKBANK",
+        "PETRONET",
+        "FEDERALBNK",
+        "BHARATFORG",
+        "LICHSGFIN",
+        "IGL",
+        "DALBHARAT",
+        "ESCORTS",
+        "MGL",
+        "RBLBANK",
+        "M&M",
+        "HDFCLIFE",
+        "PEL",
+        "BANDHANBNK",
+        "APOLLOHOSP",
+        "HDFCAMC",
+        "COROMANDEL",
+        "INDIAMART",
+        "ASTRAL",
+        "ZYDUSLIFE"
+    ],
+    "underlyingInfo": {
+        "marketCap": [
+            {
+                "avgMktCap": "23512.69",
+                "month": "July      2023",
+                "avgDailyVol": "3074140"
+            },
+            {
+                "avgMktCap": "24725.34",
+                "month": "August    2023",
+                "avgDailyVol": "2709829"
+            },
+            {
+                "avgMktCap": "25493.58",
+                "month": "September 2023",
+                "avgDailyVol": "1515463"
+            },
+            {
+                "avgMktCap": "24180.25",
+                "month": "October   2023",
+                "avgDailyVol": "649452"
+            },
+            {
+                "avgMktCap": "21341.71",
+                "month": "November  2023",
+                "avgDailyVol": "851287"
+            },
+            {
+                "avgMktCap": "20763.53",
+                "month": "December  2023",
+                "avgDailyVol": "2105483"
+            }
+        ],
+        "volatility": [
+            {
+                "maxVolatility": "2.54",
+                "minVolatility": "2.3",
+                "avgVolatility": "2.44"
+            }
+        ]
+    },
+    "expiryDatesByInstrument": {
+        "Stock Futures": [
+            "25-Jan-2024",
+            "29-Feb-2024",
+            "28-Mar-2024"
+        ],
+        "Stock Options": [
+            "25-Jan-2024",
+            "29-Feb-2024"
+        ]
+    }
+}

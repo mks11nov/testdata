@@ -1,0 +1,52 @@
+[
+    {
+        "strikePrice": 200,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 200,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BHEL",
+            "identifier": "OPTSTKBHEL28-03-2024CE200.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 5250,
+            "totalSellQuantity": 0,
+            "bidQty": 5250,
+            "bidprice": 14.05,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 200
+        }
+    },
+    {
+        "strikePrice": 210,
+        "expiryDate": "28-Mar-2024",
+        "CE": {
+            "strikePrice": 210,
+            "expiryDate": "28-Mar-2024",
+            "underlying": "BHEL",
+            "identifier": "OPTSTKBHEL28-03-2024CE210.00",
+            "openInterest": 0,
+            "changeinOpenInterest": 0,
+            "pchangeinOpenInterest": 0,
+            "totalTradedVolume": 0,
+            "impliedVolatility": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "totalBuyQuantity": 5250,
+            "totalSellQuantity": 0,
+            "bidQty": 5250,
+            "bidprice": 10.05,
+            "askQty": 0,
+            "askPrice": 0,
+            "underlyingValue": 200
+        }
+    }
+]
